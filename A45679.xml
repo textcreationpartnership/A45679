@@ -1,0 +1,872 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The best match, or, The believer's marriage with Christ a sermon on the parable of the marriage of the king's son, Mat. 22. 1, 2, &amp;c. : preached at Potters Pury in Northamptonshire, September the 29th, 1690 / by Michael Harrison ... ; to which is added four hymns ...</title>
+            <author>Harrison, Michael, Minister at Potters-Pury.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 89 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45679</idno>
+            <idno type="STC">Wing H901</idno>
+            <idno type="STC">ESTC R14002</idno>
+            <idno type="EEBO-CITATION">13139201</idno>
+            <idno type="OCLC">ocm 13139201</idno>
+            <idno type="VID">97961</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45679)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97961)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 420:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The best match, or, The believer's marriage with Christ a sermon on the parable of the marriage of the king's son, Mat. 22. 1, 2, &amp;c. : preached at Potters Pury in Northamptonshire, September the 29th, 1690 / by Michael Harrison ... ; to which is added four hymns ...</title>
+                  <author>Harrison, Michael, Minister at Potters-Pury.</author>
+               </titleStmt>
+               <extent>[11], 53, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nathanael Ranew ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Matthew XXII, 1-14 --  Sermons.</term>
+               <term>Hymns, English --  Texts.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Salvation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97961:1"/>
+            <pb facs="tcp:97961:1"/>
+            <p>THE BEST MATCH: OR, The Believer's Marriage with Chriſt.</p>
+            <p>A SERMON On the Parable of the Marriage of the King's Son; <hi>Mat.</hi> 22.1, 2, &amp;c.</p>
+            <p>Preached at <hi>Potters Pury</hi> in <hi>Northamptonſhire, September</hi> the <hi>29th,</hi> 1690.</p>
+            <p>By <hi>MICHAEL HARRISON,</hi> Miniſter of <hi>Casfield</hi> in <hi>Bucks.</hi>
+            </p>
+            <p>To which is added four Hymns.</p>
+            <list>
+               <item>I. An Hymn of Praiſes to God for giving Chriſt.</item>
+               <item>II. To Chriſt for redeeming us.</item>
+               <item>III. To God for the Goſpel.</item>
+               <item>IV. The Believer's Groans for <hi>Sion</hi>'s Deliverance.</item>
+            </list>
+            <q>
+               <bibl>
+                  <hi>I Joh. 5.12.</hi>
+               </bibl>
+               <p>He that hath the Son, hath Life; and he that hath not Son of God, hath not Life.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Nathanael Ranew,</hi> at the King's-Arms in St. <hi>Paul</hi>'s Church-Yard, 1691.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:97961:2"/>
+            <pb facs="tcp:97961:2"/>
+            <head>THE PREFACE.</head>
+            <p>THIS Heavenly Sermon invites Souls to come to Chriſt, that Spiritual Feaſt, that beſt of Feaſts; coſtly to the Provider, free to the Comer.</p>
+            <p>
+               <hi>Chriſt</hi> was <hi>crucified,</hi> to make a Feaſt for us; but it crucifies him afreſh, that many who are affectionately invited will not come. They will be ſtarv'd before they will come to this Feaſt. They will be damn'd before they will come to <hi>Chriſt.</hi> Alas, that they ſhould periſh when Life is ſo near! But they that do come, find, by bleſſed Experience, that <hi>his Fleſh is Meat indeed, and his Blood Drink indeed.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:97961:3"/>There is, <hi>1.</hi> Calling. <hi>2.</hi> Coming. <hi>3.</hi> 
+               <g ref="char:V">Ʋ</g>nion. <hi>4.</hi> Communion.</p>
+            <list>
+               <item>Calling is twofold,
+<list>
+                     <item>Outward.</item>
+                     <item>Inward.</item>
+                  </list>
+               </item>
+            </list>
+            <p>Outward Calling, is by the Goſpel, and Goſpel-Miniſtry.</p>
+            <list>
+               <item>Inward Calling is twofold,
+<list>
+                     <item>Ineffectual.</item>
+                     <item>Effectual.</item>
+                  </list>
+               </item>
+            </list>
+            <p>The inward ineffectual Call leaves the Soul in worſe ſtate than it found it. The quenching of the Sparks of Heaven is the kindling the Flames of Hell. And they fall deepeſt into Hell that fall back<g ref="char:EOLhyphen"/>wards into Hell.</p>
+            <p>The inward effectual Calling, is, when a Soul comes to Chriſt, that is, believing; <hi>Joh. 6.35.</hi> This Coming (or believing) determins effectual Calling, and begins <g ref="char:V">Ʋ</g>nion.</p>
+            <p>This <g ref="char:V">Ʋ</g>nion is the ground of Commu<g ref="char:EOLhyphen"/>nion, which on the Soul's part, is a par<g ref="char:EOLhyphen"/>taking of all ſuch ſpiritual good things
+<pb facs="tcp:97961:3"/>
+as are purchaſed by the Blood of Chriſt for Believers.</p>
+            <p>There is nothing that the corrupt Na<g ref="char:EOLhyphen"/>ture of Man is more averſe to, than Chriſt, and Faith in Chriſt. There are no Quarrels commenc'd by the World, Fleſh, and De<g ref="char:EOLhyphen"/>vil, againſt any Grace ſo much as againſt juſtifying Faith, nor againſt any Ordi<g ref="char:EOLhyphen"/>nance ſo much as that which Faith comes by, which is the ſound and plain preaching of the Goſpel, <hi>(Rom. 10.17.)</hi>
+            </p>
+            <p>Through Self-Fulneſs, and Spiritual Di<g ref="char:EOLhyphen"/>ſtempers, it comes to paſs that there is no Appetite in the Soul after Chriſt; but this Spirital Feaſt is loathed.</p>
+            <p>By others Chriſt is reſpected only as a remote cauſe of Salvation. They will not allow Juſtification by Faith in <hi>Chriſt's Blood,</hi> without the Deeds of the Law: they will not come to Chriſt unleſs they can make him a Preſent. As if it were not enough to be Joynt-Heirs with Chriſt, unleſs they might be Joynt-Purchaſers alſo.</p>
+            <p>But the Word ſaith, <hi>Come, for all things are now ready</hi> (<hi>i. e.</hi> in Chriſt) <hi>Luk. 14.17. Come, without Money, and without Price,</hi> Iſa. <hi>55.1.</hi> Only, Come.</p>
+            <p>
+               <pb facs="tcp:97961:4"/>
+               <hi>Q.</hi> Is not this preſuming?</p>
+            <p>
+               <hi>A.</hi> Nothing is more contrary to Pre<g ref="char:EOLhyphen"/>ſumption that this. For,</p>
+            <p n="1">
+               <hi>1.</hi> It is the greateſt piece of Self-denial. There is no Humility like Faith.</p>
+            <p n="2">
+               <hi>2.</hi> It is taking the Lord at his Word.</p>
+            <p>
+               <hi>Obj.</hi> This believing is a ſlight matter.</p>
+            <p>
+               <hi>Anſw.</hi> It is a ſenſeleſs and a vile Ob<g ref="char:EOLhyphen"/>jection. And to ſpeak as the truth is, People do but trifle in Soul-matters, till they are effectually humbled and chaſtiſed by the Spirit of Bondage.</p>
+            <p>It is a great thing for a Man with the Heart to believe unto Righteouſneſs. Such a poor Creature is made firſt to know him<g ref="char:EOLhyphen"/>ſelf to be a very miſerable, loſt, undone, helpleſs, ſinking, periſhing Wretch; and ſo to know himſelf, as to abhor himſelf, and ſo to abhor himſelf, as to deny himſelf, and ſo to deny himſelf, as to caſt himſelf into the ſaving Arms of an only Saviour, which were ſtretched upon the Croſs, and
+<pb facs="tcp:97961:4"/>
+are ſpread wide open in the Promiſes of the Goſpel, to embrace any wretched Sin<g ref="char:EOLhyphen"/>ner as will fall into them. This is done by Divine Light and Power. The Spirit convinces, the Father draws: And, Oh, how the Soul cries, pants, yearns after Chriſt! O nothing but Chriſt! Nothing but Chriſt! It can never be ſatisfied, till it come into that bleſſed Boſom, where the weary are at reſt. This breeds Repentance, ſecures Obedience: The Repentance is evan<g ref="char:EOLhyphen"/>gelical, that Obedience filial.</p>
+            <p>The Terrors of the Law break the Heart into hard pieces, the Love of Chriſt melts it, and makes it flow like Water. And the Soul that hath learned Chriſt to be her Righteouſneſs, finds him to be her Strength alſo, <hi>Iſa. 45.24.</hi> In a word, Chriſt is all; He hath done all, he hath ſuffered all, and he muſt have the Glory of every part of our Salvation. God will have his Son honoured.</p>
+            <p>Sinners, Sinners, Come to Chriſt: Know that there is no Salvation but by Chriſt, neither is there any Salvation by Chriſt, but in Chriſt. <hi>Iſrael ſhall be ſaved in the Lord with an everlaſting
+<pb facs="tcp:97961:5"/>
+Salvation,</hi> Iſa. <hi>45.17.</hi> Let nothing come between the Graff and the Stock: Touch cloſe upon the Foundation: Let the whole weight of your Salvation lie upon that Foundation which God hath laid and not Man. You are loſt and undone, come as ſuch to Chriſt; Come to a Saviour as to a Saviour; he will receive you joyfully. Will you not come? O, Come, confeſs your Sins, and that you are guilty to <g ref="char:V">Ʋ</g>nex<g ref="char:EOLhyphen"/>cuſableneſs! O Lord, I cannot anſwer for what I have done, I cannot bear what I have deſerved! But I appeal to the Blood of Chriſt. Thy Juſtice might be glorified in mine eternal Deſtruction, but it could never be ſatisfied; but the Blood of Chriſt hath both glorified and ſatisfied thy Juſtice. O let Chriſt's Blood go for mine! Oh ſprinkle my Conſcience with the Blood of Chriſt! Lie in Duſt and Aſhes, and cry for the Blood of Sprinkling.</p>
+            <p>O Lord, revive among us the Doctrine of free Grace, the work of Converſion, the Power of Religion, and the Spirit of Bro<g ref="char:EOLhyphen"/>therly-Kindneſs and Charity.</p>
+            <p>And now may we ſee the King of Kings, and Lord of Lords, ſitting upon a Throne
+<pb facs="tcp:97961:5"/>
+high and lifted up, and his Train filling the Temple! Now let him be exalted and extolled, and be very high! Now let him be great to the Ends of the Earth. And bleſſed be the Lord God, the God of <hi>Iſrael,</hi> who only doth wonderous things. And bleſſed be his glorious Name for ever, and let the whole Earth be filled with his Glory. <hi>Amen,</hi> and <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="author_to_the_reader">
+            <pb facs="tcp:97961:6"/>
+            <head>The Author's Advertiſment to the Reader.</head>
+            <p>THe Reader is deſired to take notice, that the follow<g ref="char:EOLhyphen"/>ing Sermon was preached to a Country-Congregation, without the leaſt deſign of ever being made publick: But ſome of the then Hearers being very earneſt for a Copy of the Author's Notes, with leave to print it; the Author (who was at firſt unwilling, having no deſire to be ſeen in Print yet) at laſt condeſcended to give a Copy, leaving it to their choice whether to make it publick or no.</p>
+            <p>The Subject, is Chriſt, the very Subject of the Goſpel. If the Lord pleaſe to bleſs it, to win over any Souls to a cordial cloſure with Chriſt; tho ſome may quarrel, the Author hath his End, and God ſhall have the Glory.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:97961:6"/>
+            <head>The Believer's Marriage with Chriſt: OR, A SERMON On the Parable of the Marriage of the King's Son.</head>
+            <epigraph>
+               <q>
+                  <bibl>Mat. 22.2.</bibl>
+                  <p>The Kingdom of Heaven is like unto a certain King, which made a Marriage for his Son.</p>
+                  <p>
+                     <bibl>3.</bibl> And ſent forth his Servants to call them that were bidden to the Wedding, and they would not come.</p>
+                  <p>
+                     <bibl>4.</bibl> Again, he ſent forth other Servants, ſaying, Tell them which are bidden, Behold, I have prepared my Dinner, my Oxen and my Fatlings are killed, and all things are ready; come unto the Mar<g ref="char:EOLhyphen"/>riage.</p>
+                  <p>
+                     <bibl>5.</bibl> But they made light of it, and went their ways, one to his Farm, another to his Merchandiſe.</p>
+               </q>
+            </epigraph>
+            <p>And ſo on to the <hi>14th</hi> Verſe.</p>
+            <div type="parable">
+               <p>HEre is a Parable ſpoken by our dear Lord Jeſus Chriſt himſelf, and therefore calls for an hearing Ear, and an underſtanding Heart in every one here preſent.</p>
+               <p>
+                  <pb n="2" facs="tcp:97961:7"/>And for our better underſtanding the Mind of Chriſt herein, let us anſwer five or ſix Queries.</p>
+               <p>
+                  <hi>Query</hi> 1. What are we to underſtand by the Kingdom of Heaven?</p>
+               <p>
+                  <hi>Anſw.</hi> There is a threefold Kingdom of Heaven.</p>
+               <p n="1">1. That bleſſed everlaſting Life the Saints ſhall live in the next World. <hi>Matth.</hi> 5.3. <hi>Bleſſed are the poor in Spirit; for theirs is the Kingdom of Heaven.</hi>
+               </p>
+               <p n="2">2. There's the Kingdom of Grace, or the Divine Life in the Hearts of the Elect; in whoſe Hearts Jeſus Chriſt hath ſet up his Spi<g ref="char:EOLhyphen"/>ritual Kingdom: <hi>Mat.</hi> 13.31. <hi>The Kingdom of Heaven is like unto a Grain of Muſtard-Seed:</hi> See <hi>ver.</hi> 32. This, and the following Parable of the Leaven, as a <note n="*" place="bottom">Pareus in locum.</note> Learned Man obſerves, ſignifies the Power and Divine Efficacy of the Goſpel, in and on the Hearts of the Elect, in the day when they are inwardly renewed by the Spirit.</p>
+               <p n="3">3. The viſible Church, comprehending both good and bad, is ſometimes called the King<g ref="char:EOLhyphen"/>dom of Heaven; as in the Parable of the Draw-Net, <hi>Mat.</hi> 13.47. <hi>The Kingdom of Hea<g ref="char:EOLhyphen"/>ven is like to a Net that was caſt into the Sea, and gathered of every kind;</hi> i.e. The viſible Church, by the Miniſtry of the Word, gathers into it, not only ſuch as are truly ſanctified, but all that viſibly own Jeſus Chriſt. And in this ſenſe I humbly conceive, this Parable of the Mar<g ref="char:EOLhyphen"/>riage
+<pb n="3" facs="tcp:97961:7"/>
+is to be underſtood. <hi>The Kingdom of Heaven is like unto a King,</hi> &amp;c. <hi>i. e.</hi> The great God of Heaven, in calling Men unto, and di<g ref="char:EOLhyphen"/>recting them how to attain Eternal Life, doth, as Kings uſe to do at Marriage-Feaſts, who having prepared all things ready, ſend out their Servants to invite the Gueſts: ſo God hath provided a Goſpel-Banquet, and ſends out the Miniſters of his Word to invite Men to come to Chriſt.</p>
+               <p>
+                  <hi>Query</hi> 2. Who is this King?</p>
+               <p>
+                  <hi>Anſw.</hi> The great God of Heaven, who did originally contrive the glorious Work of Sal<g ref="char:EOLhyphen"/>vation, as appears in theſe Scriptures, <hi>Iſa.</hi> 42.1, 2, 3, 4, 5, 6, 7. theſe are the Father's words to Chriſt, calling him forth to undertake the great Work of Redemption. Had not the Father contrived a way of Salvation for loſt Sinners, our Condition had been for ever hope<g ref="char:EOLhyphen"/>leſs: Jeſus Chriſt is the Father's Gift, <hi>Joh.</hi> 3.16. <hi>God ſo loved the World, that he gave his only begotten Son to die.</hi>
+               </p>
+               <p>
+                  <hi>Query</hi> 3. Here is a Wedding, but who is the Bridegroom, the Son here ſpoken of?</p>
+               <p>
+                  <hi>Anſw.</hi> The Lord Jeſus Chriſt, the eternal Son of God, who is the Churches Spiritual Bridegroom; and, as ſuch, often ſpoken of in Holy Scripture, <hi>Pſal.</hi> 19.5. <hi>Which is as a Bridegroom coming out of his Chamber;</hi> the an<g ref="char:EOLhyphen"/>cient Fathers underſtood this of Chriſt, the<note place="bottom">Rex ille eſt Deus Pater; ſponſus eſt Filius Dei. Spon<g ref="char:EOLhyphen"/>ſa pauci electi; Nuptiae diſponſatio &amp; copulatio Eccleſiae cum Chriſto. Pareus in loco.</note>
+                  <pb n="4" facs="tcp:97961:8"/>
+Spiritual Bridegroom of the Church<note n="*" place="bottom">Corpus ſuum aſſumptum ex Virgine &amp; ipſe tanquam ſponſus Eccleſiae toties promiſſus per Prophetas, <hi>&amp;c.</hi> Pſalterium Paraph.</note>; who aſſumed Human Nature in the Womb of the Virgin, thence appeared as the Churches Hea<g ref="char:EOLhyphen"/>venly Bridegroom in the World, and ſo he is held out to us in the Parable of the ten Virgins, <hi>Mat.</hi> 25.1, 2, 3, 4. — as a Heavenly Husband that comes to conſummate a Spiritual Mar<g ref="char:EOLhyphen"/>riage with his Church.</p>
+               <p>
+                  <hi>Query</hi> 4. But who is the Bride?</p>
+               <p>
+                  <hi>Anſw.</hi> The Church of Chriſt, and eſpecial<g ref="char:EOLhyphen"/>ly the Elect. <hi>Jer.</hi> 3.14. —<hi>I am married unto you.</hi> Rev. 19.7. <hi>The Marriage of the Lamb is come, and his Wife</hi> (the Church) <hi>hath made her ſelf ready.</hi> O the Honour given to a Be<g ref="char:EOLhyphen"/>liever! to be married to Jeſus Chriſt!</p>
+               <p>
+                  <hi>Query</hi> 5. What is meant by the Feaſt?</p>
+               <p>
+                  <hi>Anſw.</hi> That glorious Proviſion God hath made for poor undone Sinners in Chriſt, as Union and Communion with God and Chriſt; all the Benefits purchaſed by the Death of Chriſt, ſuch as Pardon, Juſtification, Sanctifi<g ref="char:EOLhyphen"/>cation, Adoption, and the like, theſe are the Heavenly Diſhes, ſerved up at this Goſpel-Feaſt, for Believers to feed upon. And it's very uſual in Scripture to repreſent Heavenly Things by Temporal, and particularly by Feaſting, <hi>Iſa.</hi> 25.6. <hi>And in this Mountain</hi> (i. e. <hi>Sion,</hi> the Church, and a Type of Heaven) <hi>ſhall the Lord of Hoſts make unto all People a Feaſt of fat things, a Feaſt of Wines on the Lees,
+<pb n="5" facs="tcp:97961:8"/>
+of fat things full of Marrow, of Wines on the Lees well refined:</hi> i. e. In that day that an elect Soul is married to Jeſus Chriſt, there's an Heavenly Banquet in that Heart. <hi>Rev.</hi> 3.20. <hi>Behold, I ſtand at the Door and knock: if any Man hear my Voice, and open to me, I will come in and ſup with him, and he with me.</hi>
+               </p>
+               <p>
+                  <hi>Query</hi> 6. Who are the Servants ſent out to invite the Gueſts to the Wedding?</p>
+               <p>
+                  <hi>Anſw.</hi> The Servants <note n="*" place="bottom">Primi Servi fuerunt Patriarchae: poſteriores, Moſes &amp; Prophetae. Pareus in loco.</note> are God's Miniſters both of the Old and New Teſtament; the firſt were Patriarchs, then <hi>Moſes,</hi> and the Pro<g ref="char:EOLhyphen"/>phets, and laſt of all the Apoſtles, and their Succeſſors: So I that am now preaching to you, am one of theſe Servants, come to invite you to come to Chriſt: the Jews they re<g ref="char:EOLhyphen"/>fuſed, now the Goſpel is preached to the Gentiles, whoſe Offspring we are.</p>
+               <p>Having thus explained the Parable, we come now to the Obſervation; and tho this preg<g ref="char:EOLhyphen"/>nant Text might afford many, yet I ſhall con<g ref="char:EOLhyphen"/>tent my ſelf one which comprehends the very Heart and Marrow of the Text.</p>
+            </div>
+            <div type="doctrine">
+               <head>
+                  <hi>Doct.</hi> God in and by the Goſpel freely offers Jeſus Chriſt, with all the Banefits of his Death, to all that are willing to come to him and receive him upon Goſpel-Terms.</head>
+               <p>
+                  <pb n="6" facs="tcp:97961:9"/>In ſpeaking to this Heavenly Truth, I ſhall endeavour theſe five things.</p>
+               <p>
+                  <hi>Firſt,</hi> Shew who it is that makes this Offer to Sinners, God the Father.</p>
+               <p>
+                  <hi>Secondly,</hi> What is offered, Jeſus Chriſt.</p>
+               <p>
+                  <hi>Thirdly,</hi> Wherein is Chriſt offered <hi>(viz.)</hi> in the Goſpel.</p>
+               <p>
+                  <hi>Fourthly,</hi> To whom doth God offer Chriſt, <hi>(viz.)</hi> To all that are willing to come to him.</p>
+               <p>
+                  <hi>Fifthly,</hi> What is it to come to, and receive, and accept of Chriſt.</p>
+               <p>Q. <hi>Firſt,</hi> Who it is that offers Chriſt and Salvation to Sinners?</p>
+               <p>
+                  <hi>Anſ.</hi> It is the Great God of Heaven: <hi>Joh.</hi> 3.16. <hi>God ſo loved the World, as to give his only Begotten Son to die.</hi> Chriſt indeed is the Re<g ref="char:EOLhyphen"/>deemer by whom we are ſaved from Wrath to come; 'tis by him that we have Redemp<g ref="char:EOLhyphen"/>tion, <hi>Epheſ.</hi> 1.</p>
+               <p>But this way of Salvation was of the Fa<g ref="char:EOLhyphen"/>ther's Contrivance; he calls Chriſt forth and employs him in the great work of Redempti<g ref="char:EOLhyphen"/>on: <hi>Iſa.</hi> 49.5. <hi>And now, ſaith the Lord that formed me from the Womb, to be his Servant, to bring</hi> Jacob <hi>again to him.</hi> Theſe are the words of Chriſt<note n="*" place="bottom">Hoc capite continetur Prophetia de Officio Chriſti. <hi>Piſcator.</hi>
+                  </note>, wherein he ſhews, that the glorious Work of Redemption, and bringing back the Elect to God, was a Work to which he was called and fitted by the Father. And
+<pb n="7" facs="tcp:97961:9"/>
+therefore the Work of Redemption is ſome<g ref="char:EOLhyphen"/>times attributed to the Father; <hi>Col.</hi> 1.12, 13. <hi>Giving Thanks to the Father,</hi> &amp;c. And you and I ſhould be much in adoring the Infinite Goodneſs and free Mercy of God that hath <hi>remembred us in our low Eſtate; becauſe his Mer<g ref="char:EOLhyphen"/>cy endureth for ever.</hi> Pſal. 136.23. We were ſinking into Hell, and eternal Perdition: had not the Father pitied us and contrived our Sal<g ref="char:EOLhyphen"/>vation, we had periſhed without remedy for ever. Look upon that new and living way to the Father by Chriſt, and ſee the Father's eternal Love in it. 2 <hi>Cor.</hi> 5.18, 19. <hi>All things are of God, who hath reconciled us to him<g ref="char:EOLhyphen"/>ſelf by Jeſus Chriſt; and hath committed unto us the Miniſtry of Reconciliation; to wit, that God was in Chriſt reconciling the World to him<g ref="char:EOLhyphen"/>ſelf.</hi> O, I beſeech you adore, admire, and ſing the Father's Praiſe for giving you a Chriſt!</p>
+               <p>Q. <hi>Secondly,</hi> What is it God freely offers us?</p>
+               <p>
+                  <hi>A.</hi> It is the Lord Jeſus Chriſt. And this may be matter of Wonderment to Men and Angels, that God ſhould give us his Son, one <hi>who was in the form of God, and thought it no robbery to be equal with God,</hi> Phil. 2.6. Him <hi>who was the Brightneſs</hi> 
+                  <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>it ſignifies more than Brightneſs, even ſuch a Brightneſs as hath a luſtre caſt upon it from ſome other thing.</hi> Sicut Sol radios ex ſua ſubſtantia gignit; ſic Pater ab eterno ex ſua ſubſtantia Filium genuit. Critica Sacra.</note> 
+                  <hi>of his Father's Glory, and the expreſs Image</hi> 
+                  <note n="†" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, Character figura idem.</note> 
+                  <hi>of his Perſon, and up<g ref="char:EOLhyphen"/>holding
+<pb n="8" facs="tcp:97961:10"/>
+all things by the Word of his Power.</hi> Him who is <hi>Alpha and Omega, the beginning and the ending, which is, and was, and is to come, the Almighty,</hi> Rev. 1.8. <hi>A Lord of Lords, and King of Kings,</hi> Revelat. 17.14. <hi>The Image of the inviſible God,</hi> Col. 1.15. <hi>The only Begotten of the Father,</hi> Joh. 1.14. <hi>Him in whom all Ful<g ref="char:EOLhyphen"/>neſs dwells,</hi> Col. 1.19. Him who is <hi>white and ruddy, the chiefeſt of ten thouſand,</hi> Cant. 5.10, 11. <hi>altogether lovely,</hi> ver. 15. A glorious in<g ref="char:EOLhyphen"/>finitely compleat Perſon! ſearch Heaven and Earth none can be found like Chriſt.</p>
+               <p>But to illuſtrate this Greatneſs of God's Love in giving Chriſt, let us conſider by what Notions, and in what Relations Jeſus Chriſt is held out to us.</p>
+               <p n="1">1. Jeſus Chriſt is a Redeemer, and, as ſuch, he is offered us. <hi>Iſa.</hi> 59.20. <hi>The Redeemer ſhall come to</hi> Zion. Epheſ. 1.7. <hi>We have Re<g ref="char:EOLhyphen"/>demption through his Blood, the Forgiveneſs of Sins.</hi> Now Chriſt's being a Redeemer, inti<g ref="char:EOLhyphen"/>mates two things to us.</p>
+               <p n="1">(1.) That we are by Nature in a State of Bondage; if it were not ſo, we ſhould not need a Redeemer: one that is already free, needs not one to make him free. And hence it is that the Carnal World ſets ſo light by Chriſt, and all the Offers of his Grace, be<g ref="char:EOLhyphen"/>cauſe they are not ſenſible of their Bondage and Slavery. Now by Nature we are Slaves to Sin; 2 <hi>Pet.</hi> 2.19. <hi>They are the Servants of Corruption;</hi> Tit. 3.3. <hi>ſerving divers Luſts and Pleaſures.</hi> And not only ſo, but we are the Devil's Slaves, <hi>Epheſ.</hi> 2.2. <hi>wherein in time paſt ye <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>alked.</hi>
+               </p>
+               <p n="2">
+                  <pb n="9" facs="tcp:97961:10"/>(2.) The Conſideration of Chriſt as a Re<g ref="char:EOLhyphen"/>deemer, intimates to us, that there was a Price paid to redeem loſt Man from the Sla<g ref="char:EOLhyphen"/>very of Sin and Satan, and this was the Blood of Chriſt the Redeemer, 1 <hi>Pet.</hi> 1.18, 19. <hi>Ye were not redeemed with corruptible things, as Silver and Gold, but with the precious Blood of Chriſt, as of a Lamb without Blemiſh, and without Spot.</hi>
+               </p>
+               <p>Now Chriſt is offered to you to be your Re<g ref="char:EOLhyphen"/>deemer from Hell and Wrath. But who a<g ref="char:EOLhyphen"/>mongſt you are willing to receive him, to come to him? It may be you will ſay, We are all willing to have Chriſt our Redeemer. No, no, there's none willing but only ſuch as are ſenſible of their Slavery: The poor Sinner that finds himſelf bound with the Chains of Sin, led by Satan Captive at his Will, and ſo ready to drop into Hell, O for a Redeemer for ſuch a poor Soul! ſuch a Soul will cry and beg for Chriſt.</p>
+               <p n="2">2. Chriſt is a Mediator, 1 <hi>Tim.</hi> 2.5. <hi>There is one Mediator between God and Man, the Man Chriſt Jeſus;</hi> and this ſhews us, that faln Man can have no Acceſs to God immediately by himſelf, there is ſo great a breach between God and him. <hi>Pſal.</hi> 7.11. <hi>God is angry with the Wicked every day.</hi> Let a Man in an unrege<g ref="char:EOLhyphen"/>nerate Eſtate do what he will, God is angry with him. If thou art out of Chriſt, while thou eateſt, ſleepeſt, walkeſt, yea, when thou pray<g ref="char:EOLhyphen"/>eſt, God is angry with thee: the Sacrifice of the Wicked is abominable to him. Thou canſt not come near him, he is a conſuming Fire.</p>
+               <p>
+                  <pb n="10" facs="tcp:97961:11"/>Therefore we muſt have a Mediator, a mid<g ref="char:EOLhyphen"/>dle Perſon to reconcile an offended God, and a rebellious Sinner to take up the Quarrel be<g ref="char:EOLhyphen"/>tween God and Man, <hi>Iſa.</hi> 27.5. <hi>Let him take hold of my Strength, that he may make Peace with me, and he ſhall make Peace with me:</hi> No way to make Peace with God, but by Chriſt, <hi>Epheſ.</hi> 2.14. <hi>He is our Peace.</hi> Now who will have Chriſt a Mediator? None but thoſe that are ſenſible of the Breach that Sin has made be<g ref="char:EOLhyphen"/>tween God and their Souls.</p>
+               <p n="3">3. Jeſus Chriſt is a Saviour, and as ſuch he is offered to us, <hi>Luke</hi> 2.10, 11. <hi>Behold I bring you good Tidings of great Joy, which ſhall be unto all People: For unto you is born a Saviour, which is Chriſt the Lord.</hi>
+               </p>
+               <p>Now this ſuppoſes we were all by Nature loſt, otherwiſe no need of a Saviour, <hi>Mat.</hi> 18.11. <hi>Jeſus Chriſt came to ſeek and to ſave that which was loſt.</hi> Sinner, doſt thou ſee thy ſelf loſt? doſt thou ſee thy need of Chriſt a Savi<g ref="char:EOLhyphen"/>our? then a Saviour will be welcome: this is ſweet News to a poor loſt Soul, that ſees he is undone by Sin.</p>
+               <p n="4">4. Jeſus Chriſt is an Advocate, 1 <hi>Joh.</hi> 2.1. <hi>If any Man ſin,</hi> (<hi>i. e.</hi> any of the Elect, and of thoſe that Chriſt died for, he did not die for all, but for the Elect only) <hi>we have an Advocate with the Father, Jeſus Chriſt the Righ<g ref="char:EOLhyphen"/>teous.</hi> And he is not only an Advocate, but an Interceſſor, <hi>Iſa.</hi> 53.12.</p>
+               <p>Now this ſuppoſes, that we were accuſed to the Father: if we had not been accuſed, there had been no need of an Advocate
+<pb n="11" facs="tcp:97961:11"/>
+or Interceſſor. We were accuſed,</p>
+               <p n="1">1. By Satan, <hi>Rev.</hi> 12.10. <hi>The Accuſer of our Brethren is caſt out;</hi> he accuſed <hi>Job</hi> and <hi>Joſhua</hi> the High Prieſt.</p>
+               <p n="2">2. We are accuſed by our own Conſciences, <hi>Heb.</hi> 2.14.</p>
+               <p n="3">3. The Word of God, ſo far as we violate any of its Precepts, accuſeth us; <hi>Joh.</hi> 5.45, 46. <hi>Think not</hi> (ſaith Chriſt) <hi>I will accuſe you to the Father, there is one that accuſeth you, even</hi> Moſes, <hi>in whom ye truſt,</hi> i. e. The Scriptures that <hi>Moſes</hi> writ.</p>
+               <p n="4">4. The wicked World they accuſe the Peo<g ref="char:EOLhyphen"/>ple of God, cry out againſt them for their Ho<g ref="char:EOLhyphen"/>lineſs, Strictneſs, Heavenlineſs, 1 <hi>Pet.</hi> 3.16. <hi>They ſpeak evil of you, as Evil-doers —and falſly accuſe your good Converſation in Chriſt.</hi>
+               </p>
+               <p>Now Chriſtian, art thou ſenſible of theſe ſeveral Accuſations? O then a Chriſt to ſpeak for thee will be exceeding welcome! Well, here he is tender'd to thee: if thou haſt felt the Cries and Accuſations of Conſcience a<g ref="char:EOLhyphen"/>gainſt thee, then the Tidings of an Advocate will be welcome.</p>
+               <p n="5">5. Jeſus Chriſt is a King, and Lord, and as ſuch he is offered to us, <hi>Rev.</hi> 17.14. <hi>King of Kings,</hi> but particularly he is King of his Church. A King is to govern; ſo Jeſus Chriſt he gives Laws to his People, and he will ſee that his Laws are executed. <hi>Iſa.</hi> 33.22. <hi>The Lord is our Law-giver, the Lord is our King, he will ſave us.</hi> And herein Chriſt has the Prehemi<g ref="char:EOLhyphen"/>nence above all earthly Kings: their Laws and Government reaches but to the outward Man,
+<pb n="12" facs="tcp:97961:12"/>
+but the Government of Jeſus Chriſt is over Hearts, he rules in the Souls of his People; <hi>Pſal.</hi> 110.3. <hi>Thy People ſhall be a willing People in the day of thy Power.</hi> Sirs, are you willing to be Chriſt's Subjects, to let him rule in your Hearts? it is the ſweeteſt Government in the World: <hi>Mat.</hi> 11.28, 29. <hi>Come unto me—my Yoke is eaſy, and my Burden is light.</hi>
+               </p>
+               <p>But none will come to Chriſt in this reſpect, but only they who are ſenſible of their own unruly Paſſions and Carnal Affections, that they are in no-wiſe able to rule and govern themſelves: which was St. <hi>Paul</hi>'s caſe, <hi>Rom.</hi> 7.23. <hi>But I ſee another Law in my Members re<g ref="char:EOLhyphen"/>belling againſt the Law of my Mind, and leading me into Captivity to the Law of Sin and Death.</hi> And finding it thus with him, he flies to Chriſt, who by his Kingly Power was able to rule and ſubdue them, <hi>ver.</hi> 24, 25. <hi>O wretched Man! who ſhall deliver me from this Body of Sin and Death?</hi> Ver. 25. <hi>I thank God through Jeſus Chriſt our Lord;</hi> Chap. 8.2. <hi>The Law of the Spirit of Life in Chriſt Jeſus, hath made me free, from the Law of Sin and Death.</hi>
+               </p>
+               <p n="6">6. Jeſus Chriſt is a Prieſt, and as ſuch offer<g ref="char:EOLhyphen"/>ed to us in the Goſpel. The High-Prieſt un<g ref="char:EOLhyphen"/>der the Law was a Type of Chriſt, as like<g ref="char:EOLhyphen"/>wiſe all thoſe Offerings and Oblations were typical of Chriſt, and his offering up himſelf to the Father. <hi>Heb.</hi> 2.17. <hi>In all things it be<g ref="char:EOLhyphen"/>hoved him to be made like unto his Brethren, that he might be a merciful and faithful High Prieſt, in things pertaining to God, that he might make Reconciliation for the Trangreſſors.</hi>
+               </p>
+               <p>
+                  <pb n="13" facs="tcp:97961:12"/>Now who amongſt you are willing to have Jeſus Chriſt as a Prieſt? None but thoſe who ſee their Sin and Miſery; for the Work of Chriſt as a Prieſt, is to make Reconciliation: O Sinner, doſt thou ſee Sin, and that the Breach between God and thy Soul is ſo great, that none but Chriſt can make God and thee Friends? He muſt bear thy Sins, <hi>Iſa.</hi> 53.5, 6. 2 <hi>Cor.</hi> 5.21. He himſelf is both Altar, Prieſt, and Sacrifice: if ſo, then Chriſt will be wel<g ref="char:EOLhyphen"/>come to thee.</p>
+               <p n="7">7. And laſtly, Jeſus Chriſt is the Spiritual Husband and Bridegroom of his Church; ſo he is held out in this Parable. We are not on<g ref="char:EOLhyphen"/>ly invited to the Marriage of the Son, but we are invited to come and marry with the Son; not as Bride-maids only to wait on the Son, but to be the Spiritual Bride, to come and marry with, and lie in the Boſom of the Son. Thus as the Churches Spiritual Husband, the Lord Jeſus Chriſt is often ſo ſpoken of, as in the Parable of the ten Virgins, <hi>Mat.</hi> 25.1.— So <hi>Ezek.</hi> 16.8. <hi>Now when I paſſed by thee, and looked upon thee, behold, thy time was a time of Love, and I ſpread my Skirt over thee, and co<g ref="char:EOLhyphen"/>vered thy Nakedneſs; yea, I ſwear unto thee, and entered into a Covenant with thee, and thou becameſt mine.</hi> So throughout the Book of <hi>Canticles,</hi> Chriſt and Believers convene in this ſweet Relation. Chriſt owns the Church for his Spouſe, <hi>Cant.</hi> 2.16. <hi>My Beloved is mine, and I am his;</hi> theſe are the Churches words, own<g ref="char:EOLhyphen"/>ing her Relation to Chriſt. And <hi>Cant.</hi> 4.8, 9, 10, 11. in theſe four Verſes the Church is
+<pb n="14" facs="tcp:97961:13"/>
+four times called Spouſe, tho the World diſ<g ref="char:EOLhyphen"/>owns the Believer, Jeſus Chriſt owns him. Here's a ſweet, a heavenly Match, Chriſt and the Believer are married! And this is not a for<g ref="char:EOLhyphen"/>ced Match, no, Jeſus Chriſt accepts of ſincere Souls in this Relation with a glad Heart. <hi>Cant.</hi> 3.11. <hi>Go forth, O ye Daughters of</hi> Zion, <hi>and behold King</hi> Solomon (<hi>i. e.</hi> Chriſt, of whom <hi>Solomon</hi> was a Type) <hi>with the Crown wherewith his Mother</hi> (<hi>i. e.</hi> the Church) <hi>crowned him in the day of his Eſpouſals,</hi> (to his Elect in a Holy, Gracious, Heavenly Union) <hi>and in the day of the Gladneſs of his Heart.</hi>
+               </p>
+               <p>Now my dear Friends, here's an offer for you, an Heavenly Husband; O be not ſo unkind and cruel to your ſelves, as to deny Chriſt; I am one of theſe Servants, I have a Commiſſion from Chriſt, yea and from the Father alſo, to aſſure you, that if you are willing, Chriſt is yours; this is my buſineſs, the Errand I come on, to invite you to come to Chriſt, Come, all things are ready on Chriſt's part, he has died, made his Soul an Offering for Sin: Will you not come, will you be damn'd rather than part with your Sins? O come, <hi>Rev.</hi> 22.17. <hi>The Spirit ſaith, Come; and the Bride ſaith, Come, whoever will, let him come.</hi> But I ſhall ſpeak further to this, when I come to a Uſe of Exhorta<g ref="char:EOLhyphen"/>tion.</p>
+               <p>
+                  <hi>Thirdly,</hi> Wherein, or by what means, doth God offer Chriſt to loſt Souls in the Goſpel? The Law requires perfect Obedience, and
+<pb n="15" facs="tcp:97961:13"/>
+curſes every one that continueth not in all things, <hi>Gal.</hi> 3.10. <hi>Curſed is every one that con<g ref="char:EOLhyphen"/>tinueth not in all things written in the Book of the Law to do them.</hi> This is terrible News: for where is the Perſon under Heaven, that has continued in all things, that hath fulfilled the Law, and may expect Eternal Life upon Law-Terms? Who ever kept one Commandment of God? No, we have all ſinned and come ſhort of the Glory of God: <hi>So that by the works of the Law</hi> (or by our Obedience to God's Law, or keeping his Commandments) <hi>ſhall no Fleſh be juſtified in his ſight,</hi> Rom. 3.20. Therefore we are all by Nature under the Curſe of the Law; the Law ſpeaks nothing to the Sinner but Wrath and Terrour, it brings the Sinner to the Bar, and there pronounceth Sentence of Condemnation againſt him, and there leaves him in the Hands of Juſtice, to expect the Ex<g ref="char:EOLhyphen"/>ecution of that fearful Sentence, <hi>Go ye curſed, Matth.</hi> 25.41. The Law gives no ground of hope to a poor Sinner to expect Salvation. But now the Goſpel that brings the glad-tidings of a Saviour, <hi>Luk.</hi> 2.10. <hi>Behold, I bring you good tidings of great Joy, which ſhall be unto all People: For to you is born a Saviour, which is Chriſt the Lord.</hi>
+               </p>
+               <p>As if the Angel had ſaid, Come, you that are under the Curſe and fiery Sentence of the Law, do not deſpair, the great God hath in infinite Mercy contrived a way to ſave you from your Sins and Fears; there's a Saviour born for you, who is able and willing to ſave to the utmoſt all thoſe that come unto God by
+<pb n="16" facs="tcp:97961:14"/>
+him. This bleſſed News of a Saviour was re<g ref="char:EOLhyphen"/>ſerved for Goſpel-Times in a great meaſure, 2 <hi>Tim.</hi> 1.10. <hi>Life and Immortality is brought to light by the Goſpel.</hi> And therefore this is the ve<g ref="char:EOLhyphen"/>ry buſineſs of a Goſpel-Miniſtry to preach Chriſt to Men, and to invite Perſons to come to Chriſt, 2 <hi>Cor.</hi> 5.20. <hi>We are Ambaſſadors for Chriſt, we pray you in Chriſt's ſtead, be ye reconciled to God.</hi> And that great Apoſtle <hi>Paul,</hi> who had well conſidered what he was to preach, ſums up the whole of his Miniſterial Office in a little compaſs, 1 <hi>Cor.</hi> 2.2. <hi>I reſolved to know nothing among you, but Chriſt, and him crucified;</hi> i. e. I had no purpoſe to teach any other Do<g ref="char:EOLhyphen"/>ctrine than the moſt neceſſary and only ſaying Doctrine, the way of Salvation by a crucified Chriſt. For indeed this is the only ſaving Knowledg, as in that Saying, <note n="†" place="bottom">Si Chriſtum diſcis, ſatis eſt, ſi caetera neſcis: Si Chriſtum neſcis nihil eſt, ſi caetera diſcis.</note> If thou knoweſt Jeſus Chriſt well, 'tis enough, tho thou art ig<g ref="char:EOLhyphen"/>norant of all other things; but if a Man know not Jeſus Chriſt, all other knowledg will do him no good.</p>
+               <p>Accurſed then be that Platonical way of Preaching, that cries up Vertues, and puts Peo<g ref="char:EOLhyphen"/>ple upon legal Performances, but hides from People the Pearl Jeſus Chriſt. O bleſs God for the Goſpel, and for a Goſpel-Miniſtry! and hear thoſe Miniſters that preach Jeſus Chriſt. Were it not for the Goſpel, and a Goſpel-Mi<g ref="char:EOLhyphen"/>niſtry, wherein would <hi>England</hi> differ from <hi>America?</hi>
+               </p>
+               <p>
+                  <pb n="17" facs="tcp:97961:14"/>
+                  <hi>Q.</hi> To whom doth God freely offer Chriſt in the Goſpel.</p>
+               <p>
+                  <hi>A.</hi> 1. Jeſus Chriſt is not offered to faln Angels, they are in a fearful State, inevitably ſentenc'd to Perdition. God could have recovered them if he had pleaſed. Jeſus Chriſt might have been their Saviour, and not ours: They are a nobler Order of Creatures than we; but it ſeemed good to the Wiſdom of God to paſs them by; when they turned their backs on God, he let them go: Heb. 2.16. <hi>For verily he took not on him the Nature of Angels,</hi> (or he took not hold of Angels) <hi>but the Seed of</hi> Abraham.</p>
+               <p n="2">2. The Jews who had the firſt offers of the Goſpel, but refuſed, are by the alwiſe God for the preſent paſſed by, he has withdrawn his Offers from them, and left them at preſent to ſit in Darkneſs, and in the Regions of the ſhadow of Death. There is indeed a time when the blindneſs ſhall be plucked from off their Hearts, and they turned to the Lord, they ſhall be converted, <hi>Rom.</hi> 11. <hi>tot. Zac.</hi> 12.10. O let us beg that God would haſten it.</p>
+               <p n="3">3. There's abundance of the Gentile World yet ſit in darkneſs, and in the Regions of the ſhadow of Death, that never yet had the Goſpel preached to them. O what vaſt Coun<g ref="char:EOLhyphen"/>tries are there in the Eaſt and Weſt <hi>Indies</hi> that never heard of a Saviour, that never had any Books to read, but the Creatures, Sun, Moon and Stars! theſe we ſhould pity, and pray for their Converſion. 'Tis a dreadful caſe not to have the Goſpel: <hi>Lord, ſend out thy Light,
+<pb n="18" facs="tcp:97961:15"/>
+and Truth,</hi> Pſal. 43.3. There is a day when the fullneſs of the Gentiles ſhall come in, as may be ſeen by well conſidering theſe Scriptures, <hi>Iſa.</hi> 49.6. <hi>Iſa.</hi> 61. throughout; This will be then a golden time, when Jews and Gentiles ſhall be converted, and the Earth filled with the Knowledg of the Lord, as the Waters cover the Sea. O beg and pray for ſuch a time, that Jeſus Chriſt may be glo<g ref="char:EOLhyphen"/>rified upon Earth as he is in Heaven.</p>
+               <p n="4">4. There are abundance even in the Chriſti<g ref="char:EOLhyphen"/>an Church, that are baptized and called Chriſtians, and make ſome kind of a profeſſion of Religion, that have ſo often and ſo long reſiſted the ſaving Offers of Chriſt in the Goſpel, and trampled on that ſweet and bleſ<g ref="char:EOLhyphen"/>ſed Blood of Jeſus, that Jeſus Chriſt has done with them: He has <hi>ſworn in his Wrath that they ſhall never enter into his reſt,</hi> Heb. 3.11. O it's dreadful for a Perſon to outſtand his Day of Grace. Be afraid Sinner leſt it ſhould be thy caſe; if Jeſus Chriſt ſhould ſay, I have done with that Swearer, I've done with this Drunkard, with that Worldly, Proud, ſcof<g ref="char:EOLhyphen"/>fing carnal Wretch: I've oft invited him, warned him, but to no purpoſe; I have done with him, he ſhall never be call'd more for me. Theſe indeed have Chriſt offered in the Word, but the Spirit is gone; God ſaith of theſe, as once he did of <hi>Ephraim;</hi> Ephraim <hi>is joined to Idols, let him alone:</hi> this is a dreadful caſe!</p>
+               <p>Of ſuch as theſe the Apoſtle ſpeaks, <hi>Heb.</hi> 6.4, 5, 6. <hi>For it is impoſſible for thoſe who were once enlightned, and have taſted of the Heavenly
+<pb n="19" facs="tcp:97961:15"/>
+Gift, and were made Partakers of the Holy Ghoſt; and have taſted the good Word of God, and the Powers of the World to come: If they fall away, to renew them again unto Repentance; ſeeing they crucify to themſelves the Son of God afreſh, and put him to an open ſhame.</hi>
+               </p>
+               <p>This is a hard Scripture, and doth much ſtumble ſome weak, but upright Chriſtians, therefore I'le anatomize it to you.<note n="*" place="bottom">Locus perobſcurus &amp; difficilis, unus haud dubiè ex illis, de quibus Petrus dixit, quaedam eſſe in Epiſtolis Paulinis; quae homines indocti &amp; inſtabiles Pervertant, ſuo ipſorum exitio.</note>
+               </p>
+               <p n="1">1. Some, as <hi>Novatus</hi> and his Followers, from this Scripture broached his pernicious Opi<g ref="char:EOLhyphen"/>nion, That thoſe that ſinned after Baptiſm, could not be renewed to Repentance. But this Opinion is long ago out of doors.</p>
+               <p n="2">2. Others would hence infer the falling a<g ref="char:EOLhyphen"/>way from Grace; taking theſe Expreſſions (to be once enlightned, to taſte the heavenly Gift, to taſte the good Word of God, and the Powers of the World to come) to intimate a ſound Work of Converſion and Regeneration: but that cannot be the ſenſe, becauſe true Grace, and the Seed of Regeneration can never be loſt, neither can a Perſon in Chriſt finally fall away from Chriſt, as appears from that one Text, which I ſhall now only name among many others to that purpoſe, 1 Pet. 1.23. <hi>Be<g ref="char:EOLhyphen"/>ing born again, not of corruptible Seed, but of in<g ref="char:EOLhyphen"/>corruptible, by the Word of God which liveth and abideth for ever.</hi>
+               </p>
+               <p>
+                  <pb n="20" facs="tcp:97961:16"/>And this cannot be better expreſſed than in the Words of that Learned and Godly Divine, Mr. <hi>William Pemble</hi> in his Book, called <hi>Vindiciae Gratiae.</hi>
+               </p>
+               <p>
+                  <q>For the habit of Grace in the Regenerate, we affirm that it is conſtant, abiding for ever in them, in whom it is once planted; ſo that he that is once converted, cannot ſo ſhake off the Grace of his firſt, as to need a ſecond Converſion; and a Sinner once raiſed from Death unto Chriſt, through the infu<g ref="char:EOLhyphen"/>ſion of ſpiritual Life, he dies no more, but lives for ever to the Glory of God.</q> As ap<g ref="char:EOLhyphen"/>pears from that of the Apoſtle, 1 <hi>Pet.</hi> 1.2, 3. What is this Seed by which we are born again? 'tis not the Word either alone or principally conſidered, becauſe that is the Inſtrument; no, it's by the power of the Spirit, without which the Word is but a dead Sound: So then this Seed is the Power or Vertue of the Holy Ghoſt. But why is this Seed called incorrup<g ref="char:EOLhyphen"/>tible? in reſpect of itſelf it is ſo, but it's ſo ſtiled in this place, in reſpect of the effect it produces <hi>quatenus Semen,</hi> it produceth Fruit like it ſelf, incorruptible and immortal. We are not born of corruptible Seed, for that pe<g ref="char:EOLhyphen"/>riſheth, and what is born of it; but of incor<g ref="char:EOLhyphen"/>ruptible, that lives and endures for ever; and ſo what ever is born of it, is immortal: this quickning Power of the Spirit lives for ever; not only in it ſelf, but in us alſo; therefore a Soul once in Chriſt by renewing Grace, can never finally fall away.</p>
+               <p n="3">
+                  <pb n="21" facs="tcp:97961:16"/>3. Others ſay, That the Apoſtle ſpeaks here only by way of Suppoſition, If theſe fall away, it's impoſſible to renew them, <hi>&amp;c.</hi> but they can never fall away. But,</p>
+               <p n="4">4. Others ſay, Theſe were but the common workings of the Spirit upon the Hearts of Hypocrites: and theſe come neareſt to the Senſe; and it muſt be confeſt, Hypocrites may go a great way in Religion, and have even ſome Taſte and Reliſh of the Things of God in their Spirits, as appears in the Stony-ground-Hearers, (take heed Reader thou beeſt not an Hypocrite!) <hi>Mat.</hi> 13.20. they are ſaid to receive the Word with Joy, and yet not any ſaving Grace in their Souls. But,</p>
+               <p n="5">5. Others expound this Scripture of thoſe extraordinary Gifts of the Spirit Chriſtians had in the Apoſtles days, ſuch as the Gift of Heal<g ref="char:EOLhyphen"/>ing, ſpeaking with Tongues, <hi>&amp;c.</hi> Theſe extra<g ref="char:EOLhyphen"/>ordinary Gifts were from the Spirit: And no doubt, ſuch as had any of theſe miraculous Gifts were much pleaſed and delighted with them, and many that had them periſhed, as may appear from comparing theſe Scriptures, <hi>Mat.</hi> 7.21, 22, 23, 24. <hi>Gal.</hi> 3.3, 4. And this I humbly conceive to be the Senſe of this Scripture. O it's dreadful to ſin againſt Light, againſt Convictions; to live under a Goſpel-Miniſtry, and get no good by it!</p>
+               <p>But now, theſe excepted, Jeſus Chriſt is offered to all in the viſible Church, and all are freely invited to come in, as in the Text. Now theſe free and general Offers ſee in theſe two Scriptures, <hi>Iſa.</hi> 55.1, 2, 3. <hi>Ho, every one that
+<pb n="22" facs="tcp:97961:17"/>
+thirſteth, come ye to the Waters, and he that hath no Mony; come ye, buy and eat, yea, come, buy Wine and Milk, without Mony, and without Price,</hi> &amp;c. and <hi>Rev.</hi> 22.17. <hi>The Spirit ſaith, Come; and the Bride ſaith, Come; and whoever is athirſt, and will, let him come, and take of the Water of Life freely.</hi>
+               </p>
+               <p n="5">
+                  <hi>5thly,</hi> But in a peculiar manner, tho Jeſus Chriſt be offered in general to all, yet he is particularly offered to ſuch as are wounded, and afflicted in Soul for Sin, and theſe alone are the Perſons that will welcome a Saviour. <hi>Luke</hi> 5.31, 32. <hi>The whole need not a Phyſician, but thoſe that are ſick;</hi> 'tis the wounded Soul that needs a Plaiſter, the ſick Soul that needs a Phyſician; the Priſoner that needs a Re<g ref="char:EOLhyphen"/>deemer; the loſt Sinner that needs a Saviour. Now if there be in this Congregation any trembling, bleeding, wounded Spirits, that are with the Jaylor crying, What ſhall I do to be ſaved! O ten thouſand Worlds if I had them for a Chriſt! <hi>&amp;c.</hi> To ſuch is the Word of this Salvation ſent; Poor Soul! here's a Chriſt for thee! be of good chear, ariſe, he calls thee, hear what he ſaith unto thee, <hi>Mat.</hi> 11.28. <hi>Come unto me all ye that labour, and are heavy laden, and I will give you reſt.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly,</hi> What is it to come to Chriſt, to believe in Chriſt, to receive and accept him upon Goſpel-Terms?</p>
+               <p>This coming to Chriſt 'tis not a meer dog<g ref="char:EOLhyphen"/>matical and opinionative Faith, a meer Per<g ref="char:EOLhyphen"/>ſwaſion of the truth of Scripture, to believe the Articles of your Creed, and profeſs your
+<pb n="23" facs="tcp:97961:17"/>
+ſelves Chriſtians, this is very common; but this coming to, and believing in Chriſt, it is a ſaving Grace, wrought in the Hearts of Perſons by the Word and Spirit of God, whereby being awakened to ſee their Sin and Miſery, that Hell and Wrath due to them for Sin; they deſpair in themſelves, and all other Creatures, and ſpeedily fly from their Sins and themſelves to Jeſus Chriſt, reſting on him alone for Juſtification, Pardon and Eternal Life.</p>
+               <p>This is coming to Chriſt; and not a Perſon under Heaven, that hath not ſuch a particular Faith as is here deſcribed, did ever yet come to Chriſt.</p>
+               <p n="1">1. You have here the nature of it, it is a ſaving Grace, <hi>i. e.</hi> not what is common to Be<g ref="char:EOLhyphen"/>lievers and Unbelievers, but peculiar to Be<g ref="char:EOLhyphen"/>lievers only; there is a common Faith, a com<g ref="char:EOLhyphen"/>mon Love, a common Repentance, and com<g ref="char:EOLhyphen"/>mon Obedience, which Hypocrites may have; and there's a ſpecial ſaving Faith, a heavenly new-diſtinguiſhing Work of the Holy Spirit on the Heart, which is peculiar to a Saint, and none but a Saint hath it; you have both theſe expreſſed in that one Scripture, <hi>Heb.</hi> 10.39. <hi>We are not of them which draw back to Perdition; but of them which believe to the ſaving of the Soul.</hi> Here's, firſt, common Faith. Some that draw back, <hi>i. e.</hi> were unſound, rotten-hearted Profeſſors, who had a common Faith, enough to make them profeſs and own Chriſt in time of Peace, but not enough to go through with their Profeſſion; and here's a ſaving Faith, a
+<pb n="24" facs="tcp:97961:18"/>
+belieVing to the ſaving of the Soul. O look to it, that your Grace be more than what's common!</p>
+               <p n="2">2. Here's the neceſſary Preparation to it, and that is, the Heart awakened, and hum<g ref="char:EOLhyphen"/>bled, and broken for Sin; this Brokenneſs of Heart for Sin it is not Faith, nor coming to Chriſt; but it is a neceſſary Preparative to it, an unbroken Heart, unhumbled Soul will never come to Chriſt. <hi>Luke</hi> 5.31, 32. <hi>The whole need not a Phyſician, but they that are ſick.</hi> 'Tis Ne<g ref="char:EOLhyphen"/>ceſſity that drives Men to Chriſt, when they ſee themſelves undone, ready to drop into Hell; the Law curſes them, and they are beſet on every ſide: like thoſe, <hi>Acts</hi> 2.37. when they were pricked at the Heart, then they cried out, <hi>What ſhall we do to be ſaved?</hi> now <hi>ver.</hi> 38. the Apoſtle directs them to Chriſt; the Sinner muſt firſt deſpair in himſelf, before he will come to Chriſt.</p>
+               <p>People cry out againſt ſpiritual, lively, quick preaching: but why? O this drives People to Deſpair. There's two ſorts of De<g ref="char:EOLhyphen"/>ſpair.</p>
+               <p n="1">(1.) To deſpair of getting to Heaven in a ſtate of Sin, while a Man is unregenerate, un<g ref="char:EOLhyphen"/>ſanctified; and truly ſuch a Deſpair as this we do preach. I tell you from the Lord Jeſus Chriſt, that every one of you living and dy<g ref="char:EOLhyphen"/>ing in a Chriſt-leſs State, you will be as ſurely damned, as if you were in Hell already. <hi>Joh.</hi> 3.3. <hi>Except you are born again, you cannot ſee the Kingdom of God.</hi>
+               </p>
+               <p n="2">
+                  <pb n="25" facs="tcp:97961:18"/>(2.) There's another kind of Deſpair, and that is, when Men deſpair of ever obtaining Mercy tho they do repent, and leave their Sins. We do not preach any ſuch Deſpair as this: But on the contrary, do all we can to draw, and to encourage Men to come to Chriſt with an aſſurance of Pardon. <hi>Iſa.</hi> 55.7. <hi>Let the Wicked forſake his Way, and the unrighteous Man his Thoughts; and turn to the Lord, and he will have Mercy upon him, and to our God, for he will abundantly pardon.</hi>
+               </p>
+               <p n="3">3. There's the Inſtrumental Cauſe of this bleſſed Work upon the Soul, and that is, the Word of God, <hi>Rom.</hi> 10.17. <hi>Faith comes by hearing, and hearing by the Word of God:</hi> If you would be drawn to Chriſt, wait upon a Goſpel-Miniſtry.</p>
+               <p n="4">4. There is the Efficient of this Heavenly Work, the bleſſed and holy Spirit of God. <hi>Epheſ.</hi> 2.8. <hi>Faith is the Gift of God:</hi> The holy Spirit is called the Spirit of Faith, 2 <hi>Cor.</hi> 4.13. becauſe the Spirit, by the Word, can draw a Soul to Chriſt: Therefore wait on the Mi<g ref="char:EOLhyphen"/>niſtry, but beg, as the Church doth, the Draw<g ref="char:EOLhyphen"/>ings of the Spirit, <hi>Cant.</hi> 1.4. <hi>Draw me.</hi>
+               </p>
+               <p n="5">5. Here is the <hi>Terminus à quo,</hi> or what a Man flies from in the day when he thus comes to Jeſus Chriſt.</p>
+               <p n="1">(1.) He flies from Sin: Now <hi>the Wicked for<g ref="char:EOLhyphen"/>ſakes his Way, and the unrighteous Man his Thoughts,</hi> Iſa. 55.7. Now is the time when a Man hath right Apprehenſions of the helliſh deſtructive nature of Sin; he ſees Sin now to be worſe than Plague, Famine, Sword, or any
+<pb n="26" facs="tcp:97961:19"/>
+Temporal Evils, and therefore flies from it, as <hi>Lot</hi> out of <hi>Sodom,</hi> or the Jews out of <hi>Egypt,</hi> he haſtens now as for his Life, to cleanſe his Hand, and his Heart from all Pollution, both of Fleſh and Spirit; now Sin appears what it is in it ſelf; he flies from Heart-Sins, ſecret Sins, vain Thoughts, as well as open Sins, <hi>Pſal.</hi> 119.113. <hi>Pſal.</hi> 139.23.</p>
+               <p n="2">(2.) He flies from himſelf. Whatever high Thoughts he might have of himſelf formerly, he now ſees himſelf one of the filthieſt and loathſomeſt Creatures under Heaven, and this eſpecially in the Vileneſs of his Heart and Na<g ref="char:EOLhyphen"/>ture, by reaſon of that Fountain of Original Sin and Corruption which is in him; he now ſees the Plague of his Heart, 1 <hi>Kings</hi> 8.38. And hence he now loaths himſelf, condemns and judges himſelf in the ſight of God, <hi>Rom.</hi> 7.28. <hi>O wretched Man that I am! who ſhall de<g ref="char:EOLhyphen"/>liver me from this Body of Death?</hi>
+               </p>
+               <p n="6">6. Here is the <hi>Terminus ad quem,</hi> that to which the poor awakened Sinner flies, and that is, to Jeſus Chriſt. Indeed Faith in general looks to the whole Word of God, and believes whatever is revealed therein to be true upon the Divine Authority of the Word it ſelf, yielding hearty Obedience to every Command, trembling at the Threatnings, <hi>Iſa.</hi> 57.15.<note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>miſer ego homo, infelix ego homo. Montan.</hi> Aerumnoſus <hi>ego homo. Beza. Ah me miſerum, quis me liberabit ab hac dira ſervitute:</hi> It ſignifies one that is wearied with troubleſome and continual Combats, like as a Champion ſtriving a long time, is like a laſt to be overcome; 'tis the Voice of one breathing after Deliverance. <hi>Calv.</hi>
+                  </note>
+                  <pb n="27" facs="tcp:97961:19"/>
+But the principal and eſpecial Act of ſaving Faith, is a receiving Chriſt, and a reſting upon him alone for Juſtification, Sanctification, and Eternal Life. And altho this ſpecial Act of Faith, as leaning, reſting, hanging upon, and truſting in Chriſt crucified, be ſo much exploded in this corrupt Age, by Men of corrupt Minds, yet it is, and ever will be, a ſweet and hea<g ref="char:EOLhyphen"/>venly Truth, prized by the Church of Chriſt, more than all the World beſides, and clearly proved from the holy Word of God. <hi>Joh.</hi> 1.12. <hi>As many as received him, to them gave he Power to become the Sons of God.</hi> Cant. 8.5. <hi>Who is this that cometh up from the Wilderneſs, leaning upon her Beloved?</hi> So <hi>Epheſ.</hi> 1.13. <hi>In whom alſo ye truſted, after that ye believed.</hi>
+               </p>
+               <p>This leaning, truſting, reſting upon Chriſt, is the proper Act of juſtifying Faith, and it hath three degrees, Adherence, Recompence, Aſſurance.</p>
+               <p n="1">1. Adherence, which ſingles out Chriſt and holds him, and as it were, by the hand of Faith, takes him by the hand, for the Stay and Support of the Soul. The poor Sinner ſeeing his own Nothingneſs, he flies to Chriſt, hangs on him, cleaves to him, looks to him in every Strait, when he has no-whither elſe to look, nor none elſe to truſt to: 2 <hi>Chron.</hi> 20.12. <hi>We know not what to do, but our Eyes are unto thee.</hi>
+               </p>
+               <p n="2">2. Recombence, which is an acquieſcence on Chriſt, the Soul reſolves to reſt upon Chriſt, let the Iſſue be what it will, as <hi>Job,</hi> Chap. 13.15. <hi>Tho he ſlay me, yet will I truſt in him.</hi> Or as <hi>Heſter,</hi> Ch. 4.16. <hi>I will go in unto the
+<pb n="28" facs="tcp:97961:20"/>
+King, and if I periſh, I periſh.</hi> So ſaith the Be<g ref="char:EOLhyphen"/>liever, I will hang upon Chriſt's Skirts, believe in him, follow after him, if I periſh, I periſh; tho he frown upon me, I will not leave him, tho he kill me, yet will I truſt in him. <hi>Pſal.</hi> 37.5. <hi>Commit thy way unto the Lord, wait pati<g ref="char:EOLhyphen"/>ently for him, and he will bring it to paſs.</hi>
+               </p>
+               <p n="3">
+                  <hi>3d.</hi> Degree of Faith, is the Faith of Aſſu<g ref="char:EOLhyphen"/>rance: this is rare, and but few Chriſtians have it. When the Spirit of God ſo ſhines in upon his own Work in the Soul, as to inable a Chriſtian to ſpeak triumphingly with the Church, <hi>Cant.</hi> 2.16. <hi>My Beloved is mine, and I am his:</hi> Or, with the Apoſtle, 2 <hi>Cor.</hi> 5.1. <hi>We know that when this Earthly Houſe is diſſolved, we have an Houſe in Heaven.</hi>
+               </p>
+               <p>Now poor complaining Soul, thou haſt not this Faith of Aſſurance, yet if thou haſt the Faith of Adherence and Recombence thy caſe is good: Aſſurance is not eſſential to juſtifying Faith.</p>
+            </div>
+            <div type="application">
+               <head>APPLICATION.</head>
+               <p>Is this ſo, that God thus freely offers Jeſus Chriſt to all that are willing to come to him? then we ſhall make a fivefold Uſe of this Truth.</p>
+               <list>
+                  <item>A Uſe of
+<list>
+                        <item>1. Information.</item>
+                        <item>2. Examination.</item>
+                        <item>3. Exhortation.</item>
+                        <item>4. Direction.</item>
+                        <item>5. Conſolation.</item>
+                     </list>
+                  </item>
+               </list>
+               <p n="1">
+                  <pb n="29" facs="tcp:97961:20"/>I. <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> ſhall be of Information, in ſix things.</p>
+               <p n="1">1. If this be ſo, then this informs us of the deſperate Madneſs and Folly of the great<g ref="char:EOLhyphen"/>eſt part of Men in the World, who wilfully reject Jeſus Chriſt thus freely offered in the Goſpel. Should you ſee a poor Maid begging her Bread from Door to Door, cloathed in naſty Rags, and ready to periſh with Hunger and Cold, and a great Prince ſhould offer his Son in Marriage to her, and this poor Creature ſhould refuſe, and prefer her Rags and Shame before ſuch an Honourable State, would you not count this a ſtupid fooliſh Creature? Why this is the caſe: Sinners by Nature are in a woful miſerable State, hanging over the very brink of Hell, and ready every moment to drop into it, ſtarving for want of a Chriſt to ſave them; <hi>Dead in Sin,</hi> Epheſ. 2.1, 2, 3. filthy loathſome Creatures, as <hi>Ezek.</hi> 16.1,— to 11.</p>
+               <p>Now God freely offers Jeſus Chriſt to poor undone miſerable Sinners, to be their Saviour, to waſh them from their Filth: <hi>Ezek.</hi> 36.25. <hi>I will poor clean Water upon you, and you ſhall be clean,</hi> i.e. tho you are black with Sin, I'll make you white by waſhing you in my Son's Blood<note n="*" place="bottom">Aſpergam vos aqua munda, id eſt, Sanguine Chriſti. Sanguis Chriſti eſt quaſi aqua munda cujus — Aſperſione mundantur Electi, à ſordibus peccatorum. Aſperguntur autem hac aqua, corda electorum per fidem, qua credunt Sanguinem Chriſti, pro ipſis effuſum eſſe in crucae in re<g ref="char:EOLhyphen"/>miſſione peccatorum. <hi>Piſcator</hi> in locum.</note>, from all your Filthineſs, and from all your Abomi<g ref="char:EOLhyphen"/>nations
+<pb n="30" facs="tcp:97961:21"/>
+will I cleanſe you; I'le open your Pri<g ref="char:EOLhyphen"/>ſon Doors, and bring you into the glorious Li<g ref="char:EOLhyphen"/>berty of the Sons of God: Accept of my Son (ſaith God) and with him you ſhall have Par<g ref="char:EOLhyphen"/>don and Life, Grace and Glory, and every good Thing: And yet Sinners will not come to Chriſt; here's the wonder that Men ſhould prefer Earth before Heaven; a baſe Luſt before Chriſt; that a ſick Man ſhould refuſe Health, a Priſoner Liberty, a condemned Sinner Par<g ref="char:EOLhyphen"/>don and Life! And yet this is the caſe, we that are Chriſt's Embaſſadors come in the Name of Chriſt, we pray you be ye reconciled to God, 2 <hi>Cor.</hi> 5.20. Come to Chriſt; but 'tis now as it was here in the Parable, they make light of it, and go away, one to his Farm, ano<g ref="char:EOLhyphen"/>ther to his Merchandize; nay ſometimes a<g ref="char:EOLhyphen"/>buſe the Servant for offering them Chriſt, and begging of them to accept of him. O what ſtupendious madneſs is this! this is to be more brutiſh than the Beaſts that periſh. <hi>Iſa.</hi> 1.2, 3. <hi>Hear, O Heavens, and give ear, O Earth; for the Lord hath ſpoken; I have nouriſhed and brought up Children, and they have rebelled againſt me. The Ox knoweth his Owner, and the Aſs his Maſter's Crib; but</hi> Iſrael <hi>doth not know, my Peo<g ref="char:EOLhyphen"/>ple do not underſtand.</hi>
+               </p>
+               <p>
+                  <hi>Object.</hi> Perhaps ſome may be ready to ſay, they do not believe that Perſons are thus un<g ref="char:EOLhyphen"/>willing to come to Chriſt; Are we not all Chri<g ref="char:EOLhyphen"/>ſtians, and do we not believe Chriſt to be the Son of God, the Saviour of the World? Is there any Body but are willing to have Chriſt, and Salvation by him?</p>
+               <p>
+                  <pb n="31" facs="tcp:97961:21"/>
+                  <hi>Anſw.</hi> The greateſt part of Men and Women in the World will not come to Chriſt, as the Scripture teſtifies here in this Parable; <hi>they were invited, but they would not come.</hi> And Joh. 5.40. <hi>You will not come to me that you might have Life.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> But who are they that will not come to Chriſt?</p>
+               <p>
+                  <hi>A.</hi> 1. Thoſe who were never throughly hum<g ref="char:EOLhyphen"/>bled for Sin, will never come to, or accept of Jeſus Chriſt. <hi>Luke</hi> 5.31, 32. <hi>The whole need not a Phyſician; but thoſe that are ſick. I came not to call the righteous, but Sinners to Repentance.</hi>
+               </p>
+               <p>Look abroad, how few ever had any hum<g ref="char:EOLhyphen"/>bling work upon their Hearts?</p>
+               <p n="2">2. Such as know not what it is to come to Chriſt, to believe in him, can never come to him. <hi>Rom.</hi> 10.14. <hi>How ſhall they believe in him of whom they have not heard?</hi> Now what groſs Ignorance aboundeth almoſt every where?</p>
+               <p n="3">3. Such will never come to Chriſt as think to be ſaved by ſomething in themſelves; its meer neceſſity that drives Perſons to Chriſt: Now many People, ask them how they hope to get to Heaven? their anſwer is, by their good Works; they pray, and keep their Church, wrong no Body: like that young Man, <hi>Mat.</hi> 19.16. <hi>What good thing ſhall I do that I may have Eternal Life?</hi> There is no getting to Heaven by our own Duties and Graces. <hi>Rom.</hi> 3.20. <hi>By the works of the Law ſhall no Fleſh be juſtified in his Sight.</hi>
+               </p>
+               <p n="4">4. Such as do not heartily approve of Chriſt's terms, but have ſecret Grudges, and Heart-quarrels againſt Chriſt: <hi>Matth.</hi> 11.6. <hi>Bleſſed
+<pb n="32" facs="tcp:97961:22"/>
+is he who ſhall not be offended in me.</hi> The Jews quarrelled at every thing Chriſt did or ſaid, at his Birth, Sermons, <hi>&amp;c.</hi> And is it not ſo now with many Perſons? How frequently do Men quarrel with the Word, as too pure? Com<g ref="char:EOLhyphen"/>mands too ſtrict? Threatnings too ſevere? <hi>&amp;c.</hi>
+               </p>
+               <p n="5">5. Such who although they are convinced 'tis their Duty to come to Chriſt, to repent, be<g ref="char:EOLhyphen"/>lieve, yet delay, procraſtinate; ſuch as are mentioned <hi>Luke</hi> 9.59, 61. Chriſt bids them <hi>follow him:</hi> they do not deny but it's their Duty ſo to do, yet they would put it off till another time, one would <hi>go and bury his Father; another bid them farewel at his Houſe.</hi> But this is a Du<g ref="char:EOLhyphen"/>ty that admits of no delay.</p>
+               <p n="6">6. Some would have Chriſt to receive them, but not upon his, but their own terms; they would have him as a Saviour, but not as a Lord, <hi>Matth.</hi> 19.21, 22. the young Man was willing to have Heaven, but not on Chriſt's terms.</p>
+               <p>I leave the enlargement of theſe Particulars to your Thoughts at leaſure.</p>
+               <p>Thus it's evident, that among the Crowd of the World, there are but few that do truly come to, or believe in Chriſt. There are other Inferences, but I omit them for Brevity.</p>
+               <p n="2">II. <hi>
+                     <g ref="char:V">Ʋ</g>ſe.</hi> Is of Examination. If this be ſo, that God thus freely offers us Chriſt, to be our Saviour: then let us examine, whether or no we did ever believe in Chriſt, come to him, and accept of him on Goſpel-Terms. All our Comfort lieth in having Chriſt. 1 <hi>Joh.</hi> 5.12. <hi>He which hath the Son, hath Life; and he which
+<pb n="33" facs="tcp:97961:22"/>
+hath not the Son, hath not Life.</hi> Therefore I be<g ref="char:EOLhyphen"/>ſeech you try your own Hearts, whether you did ever come to Chriſt or no.</p>
+               <p>But how may I come to know this?</p>
+               <p>Take theſe Signs.</p>
+               <p n="1">1. All who did ever come to Chriſt, did firſt ſee their need of Chriſt, their undone and mi<g ref="char:EOLhyphen"/>ſerable State without Chriſt; <hi>The whole need not a Phyſician, but thoſe who are ſick, Luke</hi> 5.31. See how it was with St. <hi>Paul,</hi> before, in, and after the time of his Converſion, <hi>Rom.</hi> 7.9, 10. <hi>For I was alive without the Law once:</hi> Alive, <note n="†" place="bottom">Vivus eram: nempe opinio mea. Pareus.</note> 
+                  <hi>i. e.</hi> I was a proud conceited Phariſee, thought my ſelf a righteous Perſon, and in my own opinion was in a happy and ſafe Eſtate as to my Soul: Or, as St. <hi>Auguſtine</hi> expreſſes it, <note n="‖" place="bottom">Vivus mihi videbar. <hi>Auguſt. lib.</hi> 1. <hi>cap.</hi> 9. <hi>ad Bonif.</hi> Vitam ſibi arrogaret, quum tamen eſſet mortuus. <hi>Calvin.</hi>
+                  </note> I ſeemed to my ſelf to live. But when the Commandment came, he had it before but he underſtood it not; but now he underſtands the Spiritual meaning of the Law, that it curſed him. Now, hath it been ſo with you? have you ever been a<g ref="char:EOLhyphen"/>wakened by the Spirit of God, to ſee your un<g ref="char:EOLhyphen"/>done, ſinful, miſerable Eſtate? But do not miſtake me; I do not mean, that meer trouble for Sin is a ſufficient Evidence of your coming to Chriſt. No, <hi>Cain</hi> and <hi>Judas</hi> were troubled for Sin, but never came to Chriſt; but when your trouble for Sin drives you to Chriſt. <hi>Matth.</hi> 11.28.</p>
+               <p n="2">
+                  <pb n="34" facs="tcp:97961:23"/>2. Such as have ever come to Chriſt, and be<g ref="char:EOLhyphen"/>lieved in him, have ſeen the Glory, Excellency, Fullneſs and Perfections that are in Chriſt. There is indeed all manner of Glories in Chriſt, but a Carnal Eye ſees them not; the Eye of Faith only diſcovers the Excellencies that are in him. <hi>Cant.</hi> 5.4. The Spouſe had had a ſight of the Fullneſs of Chriſt; and therefore her Soul was in purſuit after him. Now have you ſeen Chriſt's Excellency? 2 <hi>Cor.</hi> 3.18. It may be you have heard of Chriſt, you have read of Chriſt, but have you ſeen him by Faith?</p>
+               <p n="3">3. Thoſe that did ever come to Chriſt, were drawn to him by the Miniſtry of the Word, <hi>Rom.</hi> 10.17. <hi>Faith comes by hearing.</hi> 1 <hi>Cor.</hi> 1.21. <hi>It pleaſed God by the fooliſhneſs of Preaching to ſave them that believe.</hi>
+               </p>
+               <p>Now examine, You think you have Faith; how came you by it? did you always believe? that's a ſign you did never believe: but have you found the Miniſtry of the Word to be the Power of God to your Salvation? <hi>Rom.</hi> 1.16. Examine.</p>
+               <p n="4">4. All thoſe who have ever yet come to Chriſt, have divorced all their old Acquain<g ref="char:EOLhyphen"/>tance; I mean Sins, with which the Sinner is as intimate, as a Man with his Friend, <hi>Iſa.</hi> 28.15. The Sinner is in League and Covenant with his Sins, <hi>Tit.</hi> 3.3. nothing ſweeter to the Sinners taſte, <hi>Job</hi> 20.12, 13, 14. But now when a Sinner comes to Chriſt, he caſts all his Sins away; there's now an abſolute Breach be<g ref="char:EOLhyphen"/>tween the Sinner and his Sins, and not only groſs and ſcandalous, but hid and ſecret Sins, <hi>he hates vain Thoughts, Pſal.</hi> 119.113. He forſakes both
+<pb n="35" facs="tcp:97961:23"/>
+the way of Sin, and alſo the Thoughts of Sin, <hi>Iſa.</hi> 55.7. <hi>The Wicked forſakes his Ways, and the unrighteous Man his Thoughts.</hi> Now examine, is it ſo with you?</p>
+               <p n="5">5. Such account it a ſingular Honour to be employed in the Service of Chriſt. <hi>Eph.</hi> 3.8. <hi>
+                     <g ref="char:V">Ʋ</g>nto me, who am leſs than the leaſt of all Saints, is this Grace given; that I ſhould preach among the Gentiles the unſearchable Riches of Chriſt.</hi> What an Honour did <hi>David</hi> count it to be but <hi>a Door-keeper in the Houſe of God?</hi> Now exa<g ref="char:EOLhyphen"/>mine; Do you indeed eſteem it your great Pri<g ref="char:EOLhyphen"/>viledg, that you may come and hear the Word preached, that you may pray, that you may ſit down at the Lord's Table? are theſe things counted greater Honours and Priviledges by you, than if you had the Prince's Ear?</p>
+               <p n="6">6. Such who have ever come to Chriſt, count an Intereſt in Chriſt, and Relation to Chriſt their chiefeſt Treaſures. Chriſt is to them that Pearl of great Price, which they va<g ref="char:EOLhyphen"/>lue more than ten thouſand Worlds. 1 <hi>Pet.</hi> 2.9. <hi>To you that believe, he is precious.</hi> Do you ſee an Excellency in Chriſt? Do your Souls above all things thirſt for an Intereſt in him, Relation to him, Likeneſs to him?</p>
+               <p n="7">7. Such who ever did in a right manner come to Chriſt, they take as much pains for Heaven in a way of Holineſs and Obedience, as if there were no Saviour, no Mediator, but Heaven were to be gained by works; and yet after all, live as entirely by Faith upon Chriſt, as if they never had performed one Duty, or done one good Work. This you may ſee in
+<pb n="36" facs="tcp:97961:24"/>
+St. <hi>Paul;</hi> never any after Converſion did more than he did, much in Prayer, Faſtings, and Sufferings for Chriſt; and yet never any lived more by Faith than he did.</p>
+               <p>
+                  <hi>Phil.</hi> 3.8, 9. <hi>I count all things but loſs, for the excellency of the knowledg of Chriſt Jeſus my Lord: for whom I have ſuffered the loſs of all things, and do count them but Dung that I might win Chriſt. And be found in him, not having my own righte<g ref="char:EOLhyphen"/>ouſneſs, which is of the Law, but that which is through the Faith of Chriſt, the righteouſneſs which is of Chriſt by Faith.</hi>
+               </p>
+               <p>Now examine; Do you work out your Sal<g ref="char:EOLhyphen"/>vation with Fear and Trembling? Do you give all Diligence to make your Calling and Election ſure? Do you labour to be holy in all manner of Converſation, denying all Ungod<g ref="char:EOLhyphen"/>lineſs and Worldly Luſts, and living ſoberly, righteouſly and godly in this preſent evil World? Do you take up every Duty in point of performance, but lay them down in point of dependance, living only by Faith upon Chriſt?</p>
+               <p n="3">III. <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> ſhall be of Exhortation, to perſuade every one of us to come to Chriſt. It was the Work of theſe Servants in this Parable to invite Perſons to Chriſt. And 'tis my Work this Day to perſuade you, to invite you to come to Chriſt; O that I could tell what Words to uſe to prevail with you to come! You are invited not only to the Marriage of the Son of God, but to marry with the Perſon of the Son; Chriſt is offered you in that ſweet Relation of a Spiritual Husband. Come, my Brethren, will
+<pb n="37" facs="tcp:97961:24"/>
+you have Chriſt? Do you ſee your need of Chriſt? Do not your Souls long for a ſight of Jeſus Chriſt? Come, if you are but willing, have but a Spiritual Thirſt, You may come and be welcome. Chriſt doth not expect you ſhould bring any price in your Hands, <hi>Iſa.</hi> 55.1. <hi>Ho, every one that thirſteth, come ye to the Waters, and he that hath no Money; come ye, buy and eat, buy Wine and Milk without Money, and without price.</hi> So <hi>Rev.</hi> 22.27. it may be you are willing to have Chriſt a Saviour, but you muſt have him a Lord alſo. Many like Chriſt to bring them to Heaven; but they are not willing to part with their Sins.</p>
+               <p>Now that I may prevail with you to come to Chriſt, I will endeavour to do theſe three things.</p>
+               <p>
+                  <hi>Firſt,</hi> Shew you the excellency of the Perſon you are invited to marry with.</p>
+               <p>
+                  <hi>Secondly,</hi> The Advantages that you will gain by coming to Chriſt.</p>
+               <p>
+                  <hi>Thirdly,</hi> The danger of not coming.</p>
+               <p n="1">1. To invite you to come to Chriſt. Con<g ref="char:EOLhyphen"/>ſider what an excellent Perſon Chriſt is: Had you but a ſight of thoſe incomparable Glo<g ref="char:EOLhyphen"/>ries that are in Chriſt, it would raiſe your Hearts in admiration of him; and beget in you earneſt deſires of acquaintance with Him. In <hi>Cant.</hi> 5.8. You have the Churches Sickneſs for a Sight of Chriſt. In <hi>Ver.</hi> 9. The Daughters of <hi>Jeruſalem</hi> wonder at her, <hi>What is
+<pb n="38" facs="tcp:97961:25"/>
+thy Beloved, more than anothers Beloved?</hi> This is the uſual Language of a carnal Perſon. You talk of the Beauty and Glory of Chriſt: What is there in him more than in another? To this the Spouſe anſwers, <hi>ver.</hi> 10. <hi>My Beloved is white and ruddy, the chiefeſt of ten thouſand.</hi> White in reſpect of his Divinity, being God bleſſed for ever; and Ruddy in reſpect of his Humanity. <hi>Ver.</hi> 15. <hi>He is altogether lovely.</hi> Search all the World, there's none to be found like Chriſt, beautiful in his Divine Nature, as God; <hi>Heb.</hi> 1.3. <hi>Being the brightneſs of his Fa<g ref="char:EOLhyphen"/>ther's Glory, the expreſs Image of his Perſon.</hi> Beautiful as Man; Pſal. 45.2. <hi>Thou art fairer than the Children of Men.</hi> Beautiful in his Offi<g ref="char:EOLhyphen"/>ces, of Prophet, Prieſt and King: Though a carnal Eye ſees nothing, yet Faith diſcovers Wonders in Chriſt, <hi>Phil.</hi> 3.8, 9. the Spouſe diſcribes him <hi>Cappapè, Cant.</hi> 5.10. to 15. <hi>Ver.</hi> 11. <hi>His Head. (viz.)</hi> his Spiritual Headſhip over his Church. <hi>Col.</hi> 1.18. Nothing in Chriſt but is beautiful; his very Locks, Eyes, Cheeks, Lips, Hands, Legs, <hi>&amp;c.</hi> are all beautiful. <hi>Ver.</hi> 11, 12, 13, 14, 15. Under<g ref="char:EOLhyphen"/>ſtand theſe Epithets Spiritually, and Chirſt will appear a glorious and excellent Perſon. O Chriſtians, labour to ſee and know Jeſus Chriſt; if you did know him better, you would deſire him more.</p>
+               <p>
+                  <hi>Secondly,</hi> To provoke you to look out after an Intereſt in Chriſt, conſider what you ſhall gain by coming to Chriſt.</p>
+               <p n="1">
+                  <pb n="39" facs="tcp:97961:25"/>1. If you will heartily come to and be<g ref="char:EOLhyphen"/>lieve in Chriſt, you ſhall have Redemption and Deliverance from the power and guilt of Sin, and the Tyranny of Satan. <hi>Eph.</hi> 1.7. <hi>In Chriſt we have Redemption, through his Blood, even the forgiveneſs of Sins;</hi> he will make you free of the new <hi>Jeruſalem,</hi> which is above. Rom. 8.1, 2. <hi>There is therefore now no Condem<g ref="char:EOLhyphen"/>nation to thoſe that are in Chriſt Jeſus. The Law of the Spirit of Life in Chriſt hath made them free from the Law of Sin and Death.</hi>
+               </p>
+               <p n="2">2. Come to Chriſt, and all your Temporal Maladies ſhall be ſanctified to you, and all your Spiritual Maladies ſhall be cured: your Temporal Maladies ſhall all be ſanctified to you; ſuch as Sickneſs, Poverty, Diſgrace, Reproaches, <hi>&amp;c.</hi> all ſhall work for your good, <hi>Rom.</hi> 8.28. And your Spiritual Maladies ſhall be cured, ſuch as Infirmities, Backſliding, Ig<g ref="char:EOLhyphen"/>norance, Hardneſs of Heart, Blindneſs of Mind, <hi>&amp;c.</hi> Hoſea 14.4. <hi>I will heal their Back<g ref="char:EOLhyphen"/>ſlidings, and love them freely.</hi> Ezek. 36.25, 26, 27. <hi>I will pour clean Water upon you, and you ſhall be clean; from all your Filthineſs and Abo<g ref="char:EOLhyphen"/>mination will I cleanſe you; a new Heart alſo will I give you, and a new Spirit will I put within you: I will put my fear into your Hearts, and cauſe you to walk in my Ways.</hi>
+               </p>
+               <p n="3">3. Come to Chriſt, and you ſhall ſtand re<g ref="char:EOLhyphen"/>lated in the neareſt, deareſt, and ſweeteſt Re<g ref="char:EOLhyphen"/>lations to God and Chriſt; you ſhall be his Sons and Daughters, 1 <hi>John</hi> 3.1. <hi>Behold what manner of Love the Father hath beſtowed on us, that we ſhould be called the Sons of God.</hi> 2 Cor. 6.
+<pb n="40" facs="tcp:97961:26"/>
+17, 18. <hi>Come out from amongſt them, and be ye ſeparated, ſaith the Lord, and touch no unclean Thing; and I will receive you, and will be a Father unto you, and ye ſhall be my Sons and Daughters, ſaith the Lord Almighty.</hi>
+               </p>
+               <p>You ſhall be his peculiar Treaſure, 1 Pet. 2.9. <hi>A choſen Generation, a royal Prieſthood, a ho<g ref="char:EOLhyphen"/>ly Nation, a peculiar People.</hi> Jeſus Chriſt will be to you a Friend, <hi>Cant.</hi> 5.16. <hi>This is my Friend, Husband,</hi> Iſa. 54.5. <hi>A Brother, Siſter, and Mother,</hi> Mark 3.35.</p>
+               <p n="4">4. Come to, and accept of Chriſt for your Lord and Saviour, and you ſhall be fed with dainty Fare, and ſhall wear glorious Apparel; Iſa. 55.1, 2. <hi>You ſhall eat Wine and Milk, yea that which is good.</hi> Jeſus Chriſt himſelf ſhall be your Food, and his Righteouſneſs ſhall be your Apparel. Ezek. 16, 10. <hi>I clothed thee al<g ref="char:EOLhyphen"/>ſo with broidred Work, and ſhod thee with Badgers Skin, and I girded thee about with fine Linnen, and covered thee with Silk.</hi> v. 11. <hi>I decked thee alſo with Ornaments, and I put Bracelets upon thine Hands, and a Chain of Gold about thy Neck.</hi> ſee <hi>ver.</hi> 12, 13. All ſignifies the Beauty of a Believer in Chriſt; this glorious Apparel is Chriſt's Righ<g ref="char:EOLhyphen"/>teouſneſs imputed outwardly, and the Hea<g ref="char:EOLhyphen"/>venly Graces of the Spirit, put on inwardly in the great Work of Sanctification.</p>
+               <p>In a word, Come to Chriſt and you have all in having Him; Chriſt is Heir of all things, he hath all who hath Him, who is all.</p>
+               <p>Now if either Love or Beauty, or any ex<g ref="char:EOLhyphen"/>cellency will draw you; here's all in Chriſt:
+<pb n="41" facs="tcp:97961:26"/>
+O Sirs, come to Chriſt, I beſeech you do not refuſe ſuch a Saviour.</p>
+               <p>
+                  <hi>Thirdly,</hi> Yet once more to prevail with you to come to Chriſt, conſider what a Hell of Miſery you wilfully throw your Souls into, by refuſing to come to him; what became of theſe in the Parable, that ſet light by the Invitations to come. Ver. 5. <hi>They made light of it, and went away, one to his Farm, and ano<g ref="char:EOLhyphen"/>ther to his Merchandize.</hi> Ver. 7. <hi>When the King heard thereof, he was wroth; and ſent forth his Armies, and deſtroyed thoſe Murderers, and burnt up their City.</hi> O it's a dreadful, a fear<g ref="char:EOLhyphen"/>ful Caſe to refuſe Chriſt offered. Heb. 10.28, 29. <hi>He that deſpiſed</hi> Moſes<hi>'s Law, died without Mercy, under two or three Witneſſes: Of how much ſorer Puniſhment, ſuppoſe ye ſhall he be thought worthy, who hath troden under foot the Son of God,</hi> &amp;c. Refuſe Chriſt, and you periſh with<g ref="char:EOLhyphen"/>out remedy for ever. O think of Hell: who among you can dwell in eternal Burnings? Re<g ref="char:EOLhyphen"/>fuſe Chriſt, and you ſink without remedy into the loweſt Hell.</p>
+               <p>And therefore, I beſeech you come to Chriſt; what's the matter you are ſo dead, and cold to this Offer; why ſo backward? Chriſt is willing to receive. Iſa. 55.1. <hi>Ho, every one that thirſteth, come.</hi>
+               </p>
+               <p>
+                  <hi>Fourth <g ref="char:V">Ʋ</g>ſe</hi> ſhall be of Direction.</p>
+               <p>
+                  <hi>Queſt.</hi> But how may a poor Sinner come to Chriſt?</p>
+               <p>
+                  <pb n="42" facs="tcp:97961:27"/>I muſt now be ſhort.</p>
+               <p n="1">1. If you deſire to come to Chriſt, then la<g ref="char:EOLhyphen"/>bour to ſee your need of Chriſt, your undone State and Condition without Chriſt. I've told you 'tis mere neceſſity that drives Perſons to Chriſt, <hi>Luke</hi> 5.31, 32. You muſt be ſick of Sin; like thoſe, <hi>Acts</hi> 2.37.</p>
+               <p n="2">2. If you deſire to come to Chriſt, then you muſt beg and deſire to be drawn to him. Cant. 1.4. <hi>Draw me, we will run after thee.</hi> Joh. 6.44. <hi>No Man can come to me, except the Father which ſent me, draw him:</hi> Sin has ſo infeebled our Natures, that we have no Strength nor Ability to any good. Rom. 5.6. <hi>When we were without Strength, Chriſt died for the ungodly.</hi> If you would come to Chriſt, ſee your own weakneſs, ſee your need of the Drawings of the Spirit, and beg for it.</p>
+               <p n="3">3. If you deſire to come to Chriſt, then ſit under a rouſing drawing Miniſtry. Rom. 10.17. <hi>Faith comes by hearing.</hi> Mark by what means ſo many thouſands have been brought to Chriſt, and it has been by the preaching of the Goſpel, as abundantly appears in theſe Scriptures, <hi>Acts</hi> 2.37, 38. <hi>Acts</hi> 16.14. <hi>Eph.</hi> 1.13. 1 <hi>Theſ.</hi> 1.6. This is that very Ordi<g ref="char:EOLhyphen"/>nance that God has appointed to gather in the Elect to himſelf. 1 Cor. 1.21. <hi>When the World by Wiſdom knew not God, it pleaſed God by the fooliſhneſs of Preaching to ſave them that believe.</hi> And indeed this is the reaſon why the Devil and his Inſtruments do ſo much oppoſe the preaching of the Goſpel. O prize this Ordinance, and wait daily at Wiſdoms
+<pb n="43" facs="tcp:97961:27"/>
+Gates. Obſerve where the Goſpel is purely preached: Shun ſuch Preachers as daub and flatter, and heal the Wound ſlightly. Some preach up a few dead Ceremonies, cry up the Church, the Church; but do not preach Je<g ref="char:EOLhyphen"/>ſus Chriſt, Regeneration, Sanctification, and Salvation by the Blood, Death and Imputation of the Righteouſneſs of Chriſt. God owns not ſuch Preachers; but mark, thoſe Mini<g ref="char:EOLhyphen"/>ſters that preach Chriſt, and free-Grace, not free-Will, ſuch Preachers as go to the quick, <hi>Acts</hi> 2.37. Keep cloſe to the Duty of hearing the Word preached; if you ſlight the Miniſtry, you will never come to Chriſt. When you are to change your Relation or Habitation, be ſure to chuſe and prefer Ordinances for your Souls; go live under a godly Miniſtry; hear conſtantly, now and then, or on a Lord's Day is not enough; but in the Morning ſow your Seed, in the Evening withhold not your Hand, for who knows which ſhall pro<g ref="char:EOLhyphen"/>ſper, this or that?</p>
+               <p>
+                  <hi>Object.</hi> What if Miniſters will not preach twice a Day?</p>
+               <p>
+                  <hi>Anſw.</hi> Such as know the worth of their own and Peoples Souls, <hi>will be inſtant in ſeaſon, and out of ſeaſon.</hi> O if that Scripture were but writ upon Miniſters Hearts, it would make them vigilant for God, <hi>Ezech.</hi> 3.17. and tremble for fear they ſhould be found guilty of the blood of Souls.</p>
+               <p>
+                  <pb n="44" facs="tcp:97961:28"/>I promiſed you a Fifth <hi>
+                     <g ref="char:V">Ʋ</g>ſe, viz.</hi> of Conſola<g ref="char:EOLhyphen"/>tion, to ſhew you the ſweet, happy, bleſſed State ſuch are in, who are in Chriſt; but I have already exceeded the bounds of a Sermon, and therefore all I ſhall ſay is that of the Apoſtle, which gives you an account of that happy, ſweet, bleſſed Condition every Man and Wo<g ref="char:EOLhyphen"/>man in the World are in, that are come to Chriſt, <hi>Rom.</hi> 8.1. <hi>There is therefore now no con<g ref="char:EOLhyphen"/>demnation to them which are in Chriſt Jeſus.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+         <div type="hymn">
+            <pb n="45" facs="tcp:97961:28"/>
+            <head>An Hymn of Praiſe to God the Father, magnifying his Love for giving us a Saviour (as <hi>Pſal. 148.</hi>)</head>
+            <lg n="1">
+               <head>1.</head>
+               <l>YE Holy Angels bright,</l>
+               <l>That wait about God's Throne,</l>
+               <l>Enjoying fulleſt ſight,</l>
+               <l>Of that Eternal One:</l>
+               <l>God's Praiſes ſing,</l>
+               <l>Who hath from Heaven, a Saviour given,</l>
+               <l>Jeſus our King.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>You bleſſed Souls Above,</l>
+               <l>Who ſee your Saviour's Face,</l>
+               <l>Praiſe God for his great Love,</l>
+               <l>And his redeeming Grace,</l>
+               <l>Whereby you are</l>
+               <l>Set quite and clean, from Sin and Fear,</l>
+               <l>By your Saviour.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>You bleſſed Saints him praiſe,</l>
+               <l>That yet below are found;</l>
+               <l>Let <hi>Sion</hi>'s Sons always,</l>
+               <l>His Holy Praiſes ſound:</l>
+               <l>Yea, all the Earth,</l>
+               <l>To this Great King, high Praiſes ſing,</l>
+               <l>With ſweeteſt Mirth.</l>
+            </lg>
+            <lg n="4">
+               <head>4.</head>
+               <l>My thankful Soul adore</l>
+               <l>This Glorious Majeſty,</l>
+               <l>Triumph thou evermore,</l>
+               <l>In this great God moſt High:</l>
+               <l>To him draw nigh,</l>
+               <l>And evermore, his Name adore,</l>
+               <l>Eternally.</l>
+            </lg>
+         </div>
+         <div type="hymn">
+            <pb n="46" facs="tcp:97961:29"/>
+            <head>An HYMN of Praiſe to Chriſt our Redeemer.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>WHat Love profound, in Chriſt is found,</l>
+               <l>To <hi>Adam</hi>'s lapſed Race,</l>
+               <l>That God's dear Son, ſhould Man become;</l>
+               <l>O freeſt, richeſt Grace!</l>
+               <l>Ye Angels bleſt, and Souls at reſt,</l>
+               <l>Wonder how this could be,</l>
+               <l>That God moſt High, for Love ſhould dye</l>
+               <l>Upon a curſed Tree.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>When Man for Sin, was almoſt in</l>
+               <l>Eaſeleſs and endleſs Woe;</l>
+               <l>And very near, Eternal Fire,</l>
+               <l>God's flaming Wrath alſo:</l>
+               <l>He for our ſake, did undertake</l>
+               <l>To bear God's fierceſt Wrath;</l>
+               <l>And all the Sin, that we were in</l>
+               <l>To expiate by his Death.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Adore, adore, for evermore,</l>
+               <l>Thy Saviour's precious Blood;</l>
+               <l>Sing Songs of Praiſe, to him always,</l>
+               <l>Who ever do's thee good:</l>
+               <l>Do thou ſtill hate, and 'bominate</l>
+               <l>Sin which caus'd him to dye;</l>
+               <l>Your Voices raiſe, in Songs of Praiſe</l>
+               <l>To him Eternally.</l>
+            </lg>
+         </div>
+         <div type="hymn">
+            <pb n="47" facs="tcp:97961:29"/>
+            <head>An HYMN of Praiſe for the Goſpel offering CHRIST.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>OUr Souls with Joy, do magnify</l>
+               <l>
+                  <hi>Jehovah</hi> our Great King,</l>
+               <l>Becauſe the Lord, gives us his Word,</l>
+               <l>We praiſe him for this thing.</l>
+               <l>While thouſands yet, in Darkneſs ſit,</l>
+               <l>Having no Goſpel Light;</l>
+               <l>Our deareſt Lord, doth us afford</l>
+               <l>Sweet Viſions, clear and bright.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>Lord we will praiſe thy Name always,</l>
+               <l>For Goſpel-Light now given;</l>
+               <l>And humbly pray, that thy Word may</l>
+               <l>Raiſe up our Hearts to Heaven.</l>
+               <l>In this ſame Hour, ſome quickning Power,</l>
+               <l>In thy Word let us find;</l>
+               <l>O cauſe encreaſe of Light and Peace,</l>
+               <l>In our Sin-darkned Mind.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Our Hearts unvail, our Eyes unſcale,</l>
+               <l>To ſee our ſelves this Day,</l>
+               <l>What need we have of Chriſt to ſave;</l>
+               <l>A Chriſt to us diſplay.</l>
+               <l>While in this Glaſs of Goſpel-Grace,</l>
+               <l>God's Glory we do view;</l>
+               <l>Lord from above, ſhed down thy Love,</l>
+               <l>Our Souls in Grace renue.</l>
+            </lg>
+         </div>
+         <div type="hymn">
+            <pb n="48" facs="tcp:97961:30"/>
+            <head>The Believers Groans for <hi>Sion</hi>'s Delive<g ref="char:EOLhyphen"/>rance. <hi>(As</hi> Pſalm <hi>148.)</hi>
+            </head>
+            <lg n="1">
+               <head>I.</head>
+               <l>O Bleſſed Jeſus, who,</l>
+               <l>Here once was crucifi'd,</l>
+               <l>Thy ſacred Blood did flow,</l>
+               <l>Wherewith the Earth was dy'd,</l>
+               <l>And ſtill each day,</l>
+               <l>Thy bleſſed Name doth ſuffer Shame:</l>
+               <l>Lord, Come away!</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>Thy Goſpel is abus'd</l>
+               <l>By that licentious Train:</l>
+               <l>Thy Prophets are miſus'd,</l>
+               <l>Thy Threats eſteemed vain.</l>
+               <l>But, Lord, how long</l>
+               <l>Will't be e're Thou, holy and true,</l>
+               <l>Avenge this Wrong?</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Thy Saints and Servants here</l>
+               <l>Accounted are as mad;</l>
+               <l>Their Hearts are fill'd with Fear,</l>
+               <l>While wicked Men are glad.</l>
+               <l>Save thine Elect,</l>
+               <l>That night and Day to Thee do pray</l>
+               <l>To that Effect.</l>
+            </lg>
+            <lg n="4">
+               <pb n="49" facs="tcp:97961:30"/>
+               <head>IV.</head>
+               <l>The bloody Sword abroad,</l>
+               <l>Drinks Blood abundantly:</l>
+               <l>But when wilt thou, O Lord,</l>
+               <l>Hear <hi>Sion</hi>'s mournful Cry.</l>
+               <l>Haſten therefore,</l>
+               <l>That time of Peace, when Wars ſhall ceaſe</l>
+               <l>For evermore.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>Let <hi>Babel,</hi> that proud Whore,</l>
+               <l>Sink into deep Diſtreſs,</l>
+               <l>That <hi>Sion</hi> never more</l>
+               <l>She may at all oppreſs;</l>
+               <l>Charge her with Guilt,</l>
+               <l>And that becauſe, her bloody Laws</l>
+               <l>Much Blood hath ſpilt.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>Thy Saints rebuke, O Lord,</l>
+               <l>Be pleas'd to wipe away,</l>
+               <l>And ſpeedily afford</l>
+               <l>Thy Church that glorious Day,</l>
+               <l>When none ſhall more</l>
+               <l>Hurt or deſtroy, or her anoy,</l>
+               <l>For evermore.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>The Wicked cloath with Shame;</l>
+               <l>Trample on that proud Race,</l>
+               <l>That will not know thy Name,</l>
+               <l>But ſtill deſpiſe thy Grace:</l>
+               <l>But, Lord, diſplay,</l>
+               <l>Here, every-where thy holy Fear</l>
+               <l>We humbly pray.</l>
+            </lg>
+            <lg n="8">
+               <pb n="50" facs="tcp:97961:31"/>
+               <head>VIII.</head>
+               <l>Let that bright Morning ſpring,</l>
+               <l>Let Chriſt that Sun appear</l>
+               <l>With Healing in his Wing,</l>
+               <l>On all that thy Name fear:</l>
+               <l>That all the Earth</l>
+               <l>May ſing with Joy continually</l>
+               <l>In Sacred Mirth.</l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>That Evening of the Day,</l>
+               <l>When <hi>Sion</hi> ſhall have Light;</l>
+               <l>For it we long, and pray,</l>
+               <l>O let her Sun ſhine bright:</l>
+               <l>And thoſe ſweet Streams</l>
+               <l>Of Truth's Divine, Lord, let them ſhine</l>
+               <l>With brighteſt Beams.</l>
+            </lg>
+            <lg n="10">
+               <head>X.</head>
+               <l>Let Chriſt aſcend his Throne,</l>
+               <l>And reign for evermore:</l>
+               <l>Let him be King alone;</l>
+               <l>Let Nations him adore!</l>
+               <l>Bright Day appear,</l>
+               <l>When Chriſt ſhall reign, and his ſweet Name</l>
+               <l>Be own'd each where.</l>
+            </lg>
+            <lg n="11">
+               <head>XI.</head>
+               <l>That Covering, Lord, remove</l>
+               <l>From <hi>Abram</hi>'s ſinful Race;</l>
+               <l>Look on them from above,</l>
+               <l>Grant them converting Grace,</l>
+               <l>Thy Spiritual Pow'r,</l>
+               <l>That ſo they may mourn, look and pray</l>
+               <l>To their Saviour.</l>
+            </lg>
+            <lg n="12">
+               <pb n="51" facs="tcp:97961:31"/>
+               <head>XII.</head>
+               <l>A time is drawing near,</l>
+               <l>When Earth's moſt utmoſt Coaſts</l>
+               <l>The Lord's great Name ſhall fear,</l>
+               <l>And in him make their Boaſts;</l>
+               <l>Lord come away,</l>
+               <l>Begin thy Work on Pope and Turk,</l>
+               <l>Why doſt thou ſtay?</l>
+            </lg>
+            <lg n="13">
+               <head>XIII.</head>
+               <l>Let Satan, that proud Foe,</l>
+               <l>Be bound by thy ſtrong Arm,</l>
+               <l>Confin'd in Hell below,</l>
+               <l>Thy Church no more to harm;</l>
+               <l>That every Nation</l>
+               <l>May own thy Name, and all may claim</l>
+               <l>Thy ſweet Salvation.</l>
+            </lg>
+            <lg n="14">
+               <head>XIV.</head>
+               <l>Reclaim Mens Luſts and Wrath,</l>
+               <l>Make Earth a holy place.</l>
+               <l>Let Goſpel-Light break forth,</l>
+               <l>Lord ſhew thy pleaſed Face;</l>
+               <l>Thy <hi>Sion</hi>-Hill</l>
+               <l>Each day increaſe, her Light and Peace,</l>
+               <l>Her Joys fulfil.</l>
+            </lg>
+            <lg n="15">
+               <head>XV.</head>
+               <l>Let Ordinances be</l>
+               <l>Refin'd from Droſs and Tin;</l>
+               <l>Let All Salvation ſee,</l>
+               <l>O let that Day begin,</l>
+               <l>When evermore</l>
+               <l>That Sun ſhall ſhine, and all combine,</l>
+               <l>Chriſt to adore.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="52" facs="tcp:97961:32"/>
+            <head>THE POSTSCRIPT TO THE READER.</head>
+            <p>NEver did God ſhew greater Love to the Sons of Men, than when he gave the Son of his Love to die for the Sins of Men; yet too many give away their Souls for no<g ref="char:EOLhyphen"/>thing; and tho they will not now fear for Love in the Day of Grace, ſhall hereafter tremble for fear in the Day of Wrath, and know, when too late, how much Prevention is better than Confuſion.</p>
+            <p>And thou that wilt not now come to Chriſt, by ſaving Faith in the Day of his Love, to re<g ref="char:EOLhyphen"/>ceive him with his Merits and Mercies, to thy eternal Conſolation, ſhalt hereafter be brought to him in the day of Anger to thy eternal Dam<g ref="char:EOLhyphen"/>nation. Now to do the one, and to avoid the other, remember thou art but a Pilgrim and Stranger here, and that the great and chief End of Man, is to glorify God, and ſave his own Soul; That thou may'ſt do this, be admo<g ref="char:EOLhyphen"/>niſhed carefully to purſue, conſcientiouſly to peruſe, and conſtantly to practiſe what is con<g ref="char:EOLhyphen"/>tained in this <hi>Enchiridion,</hi> or Pocket-Com<g ref="char:EOLhyphen"/>panion.</p>
+            <p>
+               <pb n="53" facs="tcp:97961:32"/>The Author thereof thou mayſt ſee at the beginning.</p>
+            <p>His Qualifications in the Sermon, wherein are many ſweet, ſacred, and Soul-ſaving Truths contained, delivered by the Author in the Pa<g ref="char:EOLhyphen"/>riſh-Church of <hi>Potters Pury,</hi> in the County of <hi>Northampton.</hi>
+            </p>
+            <p>May the Wiſdom of Heaven be opened, and diſtill down ſuch heavenly refreſhing Dews upon theſe ſweet and ſacred Truths, that they may make a deep Impreſſion upon our Hearts, and be ſeated and ſetled in our Minds, and become fruitful in our Lives, to the Honour of God, the Joy of the Author, and to the preſent Comfort, future and eternal Happineſs of the Hearers.</p>
+            <p>To conclude, That thou mayſt hereby know how to put off the Old Man, and to put on the New Man <hi>Chriſt Jeſus,</hi> and ſo be made par<g ref="char:EOLhyphen"/>taker of the Divine Nature, and at laſt come to have the full Fruition of him in Glory, is the earneſt Deſire and Prayer of</p>
+            <closer>
+               <signed>Thy Friend and Servant in the Lord, <hi>J. N.</hi> Miniſter of the Goſpel at <hi>Potters Pury,</hi> aforeſaid.</signed>
+            </closer>
+            <epigraph>
+               <q>Perlege, Vive, Vale.</q>
+            </epigraph>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:97961:33" rendition="simple:additions"/>
+            <head>ADVERTISEMENT.</head>
+            <p>NEwly printed the Midnight-Cry, a Sermon on the Parable of the Ten Virgins, by <hi>J. Maſon,</hi> Rector of W. in the County of <hi>Bucks.</hi> The ſecond Edition, with Addition of two Poems for the Coming of Chriſt, by the ſame Author.</p>
+            <pb facs="tcp:97961:33"/>
+         </div>
+      </back>
+   </text>
+</TEI>
